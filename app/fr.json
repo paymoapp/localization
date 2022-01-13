@@ -2564,5 +2564,8 @@
     "You can't delete this leave type, it is used by one or several leave days.": "Vous ne pouvez pas supprimer ce type de congé, elle est utilisée par un ou plusieurs jours de congé.",
     "quick search by number": "recherche rapide par nombre",
     "quick search by name": "recherche rapide par nom",
-    "quick search by name or ID": "recherche rapide par nom ou identifiant"
+    "quick search by name or ID": "recherche rapide par nom ou identifiant",
+    "Entry has not been saved yet. Would you like to save?": "L'entrée n'a pas été sauvegardée. Voulez-vous la sauvegarder ?",
+    "Entry modified": "Entrée modifiée",
+    "My completed tasks": "Mes tâches complétées"
 }

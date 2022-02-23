@@ -2564,5 +2564,17 @@
     "Something went wrong while saving Square Location.": "Något gick fel när plats skulle sparas i Square.",
     "Square Location saved.": "Plats i Square sparades.",
     "quick search by name or ID": "snabbsök på namn eller ID",
-    "You can't delete this leave type, it is used by one or several leave days.": "Du kan inte radera denna ledighetstyp, då den används för en eller flera lediga dagar."
+    "You can't delete this leave type, it is used by one or several leave days.": "Du kan inte radera denna ledighetstyp, då den används för en eller flera lediga dagar.",
+    "Despite our hard work and efforts to make Paymo a great app, it seems it didn't work for you. Would you mind telling us why? We'll definitely learn something from your feedback:": "Trots vårt hårda arbete och ansträngningar att göra Paymo till en suverän app, verkar det som om du inte är helt nöjd. Vill du berätta varför? Vi tar till oss all återkoppling vi kan få:",
+    "My completed tasks": "Mina slutförda uppgifter",
+    "Project limit reached": "Max antal projekt har uppnåtts",
+    "You have reached the limit for the number of projects your plan currently allows. To add more projects please upgrade your account by clicking the button bellow.": "Du har uppnått max antal projekt som ingår i ditt abonnemang. För att skapa fler projekt måste du uppgradera ditt konto genom att klicka på knappen nedan.",
+    "Entry has not been saved yet. Would you like to save?": "Posten har inte sparats. Vill du spara?",
+    "Entry modified": "Posten ändrades",
+    "Duplicate project failed": "Kopiering av projekt misslyckades",
+    "Get additional projects": "Lägg till flera projekt",
+    "Recurring invoices & Late payment reminders will be sent to this address": "Återkommande fakturor och påminnelser kommer att skickas till denna adress",
+    "Feedback sent": "Återkoppling skickad",
+    "Sorry to see you go": "Vi är ledsna för att du lämnar oss",
+    "Submit & Proceed": "Posta och fortsätt"
 }

@@ -2576,5 +2576,7 @@
     "Recurring invoices & Late payment reminders will be sent to this address": "Återkommande fakturor och påminnelser kommer att skickas till denna adress",
     "Feedback sent": "Återkoppling skickad",
     "Sorry to see you go": "Vi är ledsna för att du lämnar oss",
-    "Submit & Proceed": "Posta och fortsätt"
+    "Submit & Proceed": "Posta och fortsätt",
+    "The timezone in your Paymo profile is different from your computer's which might display inaccurate timesheet data.": "Tidszonen i din Paymo-profil är en annan än den på din dator, varför tidrapporter kan visa felaktiga tider.",
+    "Synchronize": "Synkronisera"
 }

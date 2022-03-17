@@ -2567,5 +2567,8 @@
     "quick search by name or ID": "recherche rapide par nom ou identifiant",
     "Entry has not been saved yet. Would you like to save?": "L'entrée n'a pas été sauvegardée. Voulez-vous la sauvegarder ?",
     "Entry modified": "Entrée modifiée",
-    "My completed tasks": "Mes tâches complétées"
+    "My completed tasks": "Mes tâches complétées",
+    "Despite our hard work and efforts to make Paymo a great app, it seems it didn't work for you. Would you mind telling us why? We'll definitely learn something from your feedback:": "Malgré notre travail et nos efforts pour faire de Paymo une excellente application, il semble que cela n'ait pas fonctionné pour vous. Pourriez-vous nous dire pourquoi ? Nous apprendrons certainement quelque chose de vos commentaires :",
+    "Duplicate project failed": "Échec de duplication du projet",
+    "Feedback sent": "Commentaires envoyés"
 }

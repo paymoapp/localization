@@ -1129,7 +1129,7 @@
     "Can't create bookings for recurring task, task occurrence does not exist yet!": "タスクが存在しないため、定期タスクの予約を作成することができません！",
     "Changing the booking range will auto-adjust the task date range to": "予約の変更はタスクの日付範囲を自動変更します",
     "Changing the current task's dates will result in conflicts with the existing bookings for the following tasks:": "現在のタスクの日程を変更すると、次の既存の予定と競合します：",
-    "Clear": "",
+    "Clear": "クリア",
     "Click anywhere on the image to add a new annotation.": "新しい注釈を加えるにはイメージのどこかをクリックしてください",
     "Client Contact": "",
     "Client Name": "クライアント名",
@@ -1673,7 +1673,7 @@
     "Leave for": "",
     "Initializing...": "初期化中...",
     "Insert Emoji": "絵文字挿入",
-    "Integrations Settings": "統合設定",
+    "Integrations Settings": "アプリ連携",
     "Internal Notes": "内部ノート",
     "Invalid action token. Try again.": "無効なアクショントークンです。再試行してください。",
     "Invalid data": "無効なデータ",
@@ -2549,5 +2549,6 @@
     "Square Location saved.": "スクエアの位置情報が保存されました。",
     "Something went wrong while checking Square status.": "スクエアのステータス確認中に問題が起きました。",
     "Assigned to": "アサイン",
-    "Something went wrong while saving Square Location.": "スクエアの位置情報保存中に問題が起きました。"
+    "Something went wrong while saving Square Location.": "スクエアの位置情報保存中に問題が起きました。",
+    "Delete leave type": "休暇種別の削除"
 }

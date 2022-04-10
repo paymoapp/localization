@@ -2197,7 +2197,7 @@
     "There are no tasks to display": "表示するタスクがありません",
     "There are no tasks without a due date": "期日のないタスクはありません",
     "There are no tasks yet": "まだタスクがありません",
-    "There's no data to show you right now. There may be no items yet or your filters may be too tightly defined (try clicking the icons above to see active filters).": "",
+    "There's no data to show you right now. There may be no items yet or your filters may be too tightly defined (try clicking the icons above to see active filters).": "表示できるデータがありません。登録がないか、フィルターが設定されている可能性があります。",
     "There's no data to show you right now. There may be no items yet or your filters may be too tightly defined.": "",
     "This application has an update. Do you want to reload it now?": "このアプリケーションには更新があります。現在再読み込みを行いますか？",
     "This client has unbilled AR. When billing, archived projects are ignored. Are you sure you want to archive this client?": "",

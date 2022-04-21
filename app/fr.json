@@ -2579,5 +2579,7 @@
     "Get additional projects": "Obtenir des projets supplémentaires",
     "Project limit reached": "Limite du projet atteinte",
     "Submit & Proceed": "Envoyer et poursuivre",
-    "Timer has just started": "La minuterie vient de démarrer"
+    "Timer has just started": "La minuterie vient de démarrer",
+    "{count} clients": "{count} clients",
+    "{count} clients_plural": "{count} clients"
 }

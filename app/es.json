@@ -1086,8 +1086,8 @@
     "Incorrect email or password": "Correo electrónico o contraseña incorrecta",
     "infinite": "infinito",
     "Info": "Información",
-    "Initial Project Email Notifications": "Notificaciones Iniciales por Correo electrónico del Proyecto",
-    "Initial Project Notifications": "Notificaciones Iniciales del Proyecto",
+    "Initial Project Email Notifications": "Notificaciones iniciales por e-mail del proyecto",
+    "Initial Project Notifications": "Notificaciones iniciales",
     "Initializing...": "Inicializando...",
     "Input as": "Registrar como",
     "Insert Emoji": "Insertar Emoticono",
@@ -2458,8 +2458,8 @@
     "Stop Timer & Complete Task": "",
     "Stop Timer Menu": "",
     "Streamline the creation of daily, weekly, or monthly tasks and save on admin time with <1>Recurring Task Profiles</1>.": "",
-    "Submit": "",
-    "Subscription & Billing": "",
+    "Submit": "Enviar a",
+    "Subscription & Billing": "Suscripción y facturación",
     "Subtask": "Subtarea",
     "Subtasks": "Subtareas",
     "Task Dates Auto-Adjust": "",
@@ -2610,5 +2610,7 @@
     "Share with other People": "Compartir con otros",
     "Something went wrong while checking Square status.": "Algo salió mal al verificar el estado de Square.",
     "Sorry to see you go": "Siento ver que te vas",
-    "started a discussion on": "comenzó una discusión sobre"
+    "started a discussion on": "comenzó una discusión sobre",
+    "Synchronize": "Sincronizar",
+    "Submit & Proceed": "Enviar y continuar"
 }

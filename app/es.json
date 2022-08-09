@@ -2753,6 +2753,16 @@
     "Default invoice terms": "Términos de factura predeterminados",
     "Client profile has not been saved yet.": "El perfil del cliente aún no se ha guardado.",
     "Delete Key": "Borrar Key",
-    "Delete link": "Borrar link",
-    "Delete payment": "Borrar pago"
+    "Delete link": "Borrar enlace",
+    "Delete payment": "Borrar pago",
+    "Delete time entry": "Borrar entrada de tiempo",
+    "Delete time entry_plural": "Borrar entradas de tiempo",
+    "Delete Status": "Borrar estado",
+    "Delete subtask": "Borrar subtarea",
+    "Delete task": "Borrar tarea",
+    "Completion Status": "Estado de finalización",
+    "Convert to Estimate": "Convertir en estimación",
+    "Delete tag": "Borrar etiqueta",
+    "Delete task list": "Borrar lista de tareas",
+    "Delete Task List": "Borrar lista de tareas"
 }

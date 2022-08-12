@@ -898,6 +898,7 @@
   "You can't delete a task list that has a task with an active timer!": "You can't delete a task list that has a task with an active timer!",
   "You can't delete a task with an active timer!": "You can't delete a task with an active timer!",
   "You can't delete this leave type because it is used by one or more leave days.": "You can't delete this leave type because it is used by one or more leave days.",
+  "You can't delete this project status because there are projects using this project status.": "You can't delete this project status because there are projects using this project status.",
   "You can't delete this workflow because it is being used by one or more projects.": "You can't delete this workflow because it is being used by one or more projects.",
   "You can't delete this workflow status because there are tasks using this workflow status.": "You can't delete this workflow status because there are tasks using this workflow status.",
   "You can't move a task to a different workflow.": "You can't move a task to a different workflow.",

@@ -3188,5 +3188,16 @@
     "Are you sure you want to mark <1>{{milestones}}</1> selected milestones as complete?": "Är du säker på att du vill markera <1>{{milestones}}</1> valda milstolpar som uppnådda?",
     "Changing the notifications settings will reload the page. ": "Ändring av noteringsinställningar kommer att ladda om sidan. ",
     "Delete Leave Day": "Radera ledighet",
-    "All tasks will keep their invoiced status.": "Alla uppgifter behåller sin faktureringsstatus."
+    "All tasks will keep their invoiced status.": "Alla uppgifter behåller sin faktureringsstatus.",
+    "Moving Card here not allowed": "Flytta kort är inte tillåtet",
+    "Change Recurring Task Profile": "Ändra profil för avtalsfakturering",
+    "<0>Warning!</0><1></1><2>{{tasks}} task </2><3>and <1>{{time}}</1> of logged time</3> will be deleted. This action is irreversible.": "<0>Varning!</0><1></1><2>{{tasks}} uppgift </2><3>och <1>{{time}}</1> av loggad tid kommer att raderas. Denna åtgärd kan inte ångras.",
+    "Are you sure you want to delete <2>{{name}}</2>?<4></4><5><0>{{time}}</0> of logged time will be deleted.<2></2></5>This action is irreversible.": "Är du säker på att du vill radera <2>{{name}}</2>?<4></4><5><0>{{time}}</0> av loggad tid kommer att raderas.<2></2></5>Denna åtgärd kan inte ångras.",
+    "Your recurring profile was successfully created.<1></1>Would you like to automatically create the first invoice?": "Avtalsfakturaprofilen skapades.<1></1>Vill du automatiskt skapa den första fakturan?",
+    "Delete Timesheet Report": "Radera tidrapport",
+    "We sent an email to <2>{{email}}</2>.<4></4>Please open the email and click on the verification link.": "Vi har skickat e-post till <2>{{email}}</2>.<4></4>Öppna meddelandet och klicka på verifikationslänken.",
+    "Are you sure you want to delete <2>{{name}}</2>?<4></4><5><0>{{tasks}} task </0> <2>and <1>{{time}}</1> of logged time</2> will be deleted.<5></5></5>This action is irreversible.": "Är du säker på att du vill radera <2>{{name}}</2>?<4></4><5><0>{{tasks}} uppgift </0> <2>och <1>{{time}}</1> av loggad tid</2> kommer att raderas.<5></5></5>Denna åtgärd kan inte ångras.",
+    "<0><0>Warning!</0>All associated payments will be deleted.<2></2>This action is irreversible.</0>Are you sure you want to delete <2>{{invoices}}</2> selected invoices?": "<0><0>Varning!</0>Alla tillhörande betalningar kommer att raderas.<2></2>Denna åtgärd kan inte ångras.</0>Är du säker på att du vill radera <2>{{invoices}}</2> valda fakturor?",
+    "Project status was changed": "Projektstatus ändrades",
+    "Project status was changed_plural": "Projektstatusar ändrades"
 }

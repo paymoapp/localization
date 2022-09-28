@@ -3199,5 +3199,7 @@
     "Are you sure you want to mark the selected entry as <2>{{status}}</2>?": "¿Seguro que quiere marcar las entradas seleccionadas como <2>{{status}}</2>?",
     "We sent an email to <2>{{email}}</2>.<4></4>Please open the email and click on the verification link.": "Hemos enviado un email a <2>{{email}}</2>.<4></4>Por favor ábralo y pulse en el enlace de verificación.",
     "Are you sure you want to delete <2>{{name}}</2>?<4></4><5><0>{{time}}</0> of logged time will be deleted.<2></2></5>This action is irreversible.": "¿Seguro que quiere borrar <2>{{name}}</2>?<4></4><5><0>{{time}}</0> de tiempo registrado.<2></2></5>Está acción es irreversible.",
-    "Are you sure you want to set the status of this projects to <2>{{status}}</2>?": "¿Seguro que quiere establecer el estado de estos proyectos a <2>{{status}}</2>?"
+    "Are you sure you want to set the status of this projects to <2>{{status}}</2>?": "¿Seguro que quiere establecer el estado de estos proyectos a <2>{{status}}</2>?",
+    "An error has occurred. Please try again later.": "Se ha producido un error. Por favor inténtelo de nuevo más tarde.",
+    "Sorry, something went wrong here! Please try again later.": "¡Lo sentimos, algo no fue bien aquí! Por favor inténtelo de nuevo más tarde."
 }

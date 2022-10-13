@@ -2614,5 +2614,22 @@
     "{count} Days": "{count} Jour",
     "{count} Days_plural": "{count} Jours",
     "{count} recurring profiles": "{count} profil récurrent",
-    "{count} recurring profiles_plural": "{count} profils récurrents"
+    "{count} recurring profiles_plural": "{count} profils récurrents",
+    "Activate Invoice": "Activer facture",
+    "Activate Invoice_plural": "Activer factures",
+    "Activating a project of an archived client will activate the client as well.": "L'activation d'un projet d'un client archivé activera également le client.",
+    "Add a new Client Contact": "Ajouter un nouveau contact de client",
+    "Add a new Project": "Ajouter un nouveau projet",
+    "Add a new Task": "Ajouter une nouvelle tâche",
+    "Add a new Task List": "Ajouter une nouvelle liste de tâche",
+    "Add a new Client": "Ajouter un nouveau client",
+    "Activate Report": "Activer rapport",
+    "Activate Report_plural": "Activer rapports",
+    "Activate Estimate": "Activer estimation",
+    "Activate Estimate_plural": "Activer estimations",
+    "{tasklists} and {tasklist} already have a milestone associated to them.": "{tasklists} et {tasklist} ont déjà un jalon qui leur est associé.",
+    "Accept online payments": "Accepter les paiements en ligne",
+    "Activate client": "Activer client",
+    "Activate client_plural": "Activer clients",
+    "{tasklist} already has a milestone associated to it.": "{tasklist} a déjà un jalon qui lui est associé."
 }

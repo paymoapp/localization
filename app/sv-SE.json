@@ -3289,5 +3289,6 @@
     "Are you sure you want to mark {number} selected entry as {status}?_plural": "Är du säker på att du vill markera {number} valda poster som {status}?",
     "The {name} estimate template can't be deleted because it's currently in use!": "{name} utläggsmallen kan inte raderas på den för närvarande används!",
     "The {name} invoice template can't be deleted because it's currently in use!": "{name} fakturamallen kan inte raderas på den för närvarande används!",
-    "Would you like to set {date} as a working day?": "Vill du ange {date} som arbetsdag?"
+    "Would you like to set {date} as a working day?": "Vill du ange {date} som arbetsdag?",
+    "This is a brief reminder that you have one week to switch to a <1>new monthly plan or discounted yearly plan</1>. Old plans will no longer be supported.": "Detta är en påminnelse om att du har en vecka på dig att byta till ett <1>new monthly plan or discounted yearly plan</1>. Äldre planer kommer inte att vara tillgängliga."
 }

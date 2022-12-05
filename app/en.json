@@ -891,7 +891,7 @@
   "This client has unbilled AR. When billing, archived projects are ignored.": "This client has unbilled AR. When billing, archived projects are ignored.",
   "This expense has already been invoiced.": "This expense has already been invoiced.",
   "This field is required": "This field is required",
-  "This is a brief reminder that you have one week to switch to a <1>new monthly plan or discounted yearly plan</1>. Old plans will no longer be supported.": "This is a brief reminder that you have one week to switch to a <1>new monthly plan or discounted yearly plan</1>. Old plans will no longer be supported.",
+  "This is a brief reminder that tomorrow, December 6th, is <1>the last day to switch</1> to a <3>new monthly plan or discounted yearly plan</3>. Your current plan will no longer be supported, and you won't have access to your account data until you make the switch and create a new subscription.": "This is a brief reminder that tomorrow, December 6th, is <1>the last day to switch</1> to a <3>new monthly plan or discounted yearly plan</3>. Your current plan will no longer be supported, and you won't have access to your account data until you make the switch and create a new subscription.",
   "This month": "This month",
   "This note will be included into the email sent to your customer.": "This note will be included into the email sent to your customer.",
   "this project retainer period?": "this project retainer period?",

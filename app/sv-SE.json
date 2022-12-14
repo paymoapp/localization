@@ -3290,5 +3290,18 @@
     "The {name} estimate template can't be deleted because it's currently in use!": "{name} utläggsmallen kan inte raderas på den för närvarande används!",
     "The {name} invoice template can't be deleted because it's currently in use!": "{name} fakturamallen kan inte raderas på den för närvarande används!",
     "Would you like to set {date} as a working day?": "Vill du ange {date} som arbetsdag?",
-    "This is a brief reminder that you have one week to switch to a <1>new monthly plan or discounted yearly plan</1>. Old plans will no longer be supported.": "Detta är en påminnelse om att du har en vecka på dig att byta till ett <1>new monthly plan or discounted yearly plan</1>. Äldre planer kommer inte att vara tillgängliga."
+    "This is a brief reminder that you have one week to switch to a <1>new monthly plan or discounted yearly plan</1>. Old plans will no longer be supported.": "Detta är en påminnelse om att du har en vecka på dig att byta till ett <1>new monthly plan or discounted yearly plan</1>. Äldre planer kommer inte att vara tillgängliga.",
+    "No currency matches your search": "Ingen vaulta matchade din sökning",
+    "Percentage": "Procent",
+    "This is a brief reminder that tomorrow, December 6th, is <1>the last day to switch</1> to a <3>new monthly plan or discounted yearly plan</3>. Your current plan will no longer be supported, and you won't have access to your account data until you make the switch and create a new subscription.": "Detta är en påminnelse att imorgon, den 6 december, är <1>sista dagen för byta</1> till ett<3>nytt måndsabonnemang eller rabatterat årsabonnemang</3>. Ditt befintliga abonnemang kommer inte längre kunna användas och du kommer inte ha tillgång till dina uppgifter förrän du har bytt till ett nytt abonnemang.",
+    "Add a new Tax": "Lägg till ny skatt",
+    "Add New Tax": "Lägg till ny skatt",
+    "Add Tax": "Lägg till skatt",
+    "No tax matches your search": "Ingen skatt matchade din sökning",
+    "search currencies": "sök valutor",
+    "search taxes": "sök skatter",
+    "Tax code exceeds 10 characters.": "Skattekod överstiger 10 tecken.",
+    "Tax Rate": "Skattesats",
+    "Tax Label": "Rubrik skatt",
+    "Tax label exceeds 255 characters.": "Rubriken överstiger 255 tecken."
 }

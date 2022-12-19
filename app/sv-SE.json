@@ -3303,5 +3303,6 @@
     "Tax code exceeds 10 characters.": "Skattekod överstiger 10 tecken.",
     "Tax Rate": "Skattesats",
     "Tax Label": "Rubrik skatt",
-    "Tax label exceeds 255 characters.": "Rubriken överstiger 255 tecken."
+    "Tax label exceeds 255 characters.": "Rubriken överstiger 255 tecken.",
+    "retainer agreement": "Retaineravtal"
 }

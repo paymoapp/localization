@@ -1,1 +1,27 @@
-{}
+{
+    "Add Task": "Adicionar Tarefa",
+    "Cancel": "Cancelar",
+    "General": "Geral",
+    "Entry Note": "Nota de Entrada",
+    "Today": "Hoje",
+    "Update": "Atualizar",
+    "Close": "Fechar",
+    "Interval": "Intervalo",
+    "Bulk Time": "Tempo em Lote",
+    "Timesheet": "Folha de Horas",
+    "Timer": "Temporizador",
+    "Settings": "Definições",
+    "Logout": "Terminar sessão",
+    "Add Time": "Adicionar Tempo",
+    "Edit Entry": "Editar entrada",
+    "Add Entry": "Adicionar Entrada",
+    "Theme": "Tema",
+    "minutes": "minutos",
+    "Stopwatch": "Cronómetro",
+    "Start": "Iniciar",
+    "hr": "h",
+    "Duration": "Duração",
+    "Title": "Título",
+    "Apps": "Aplicações",
+    "Select Task": "Selecionar tarefa"
+}

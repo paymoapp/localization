@@ -1,1 +1,25 @@
-{}
+{
+    "Add Task": "Aggiungi attività",
+    "Cancel": "Annulla",
+    "Entry Note": "Nota voce",
+    "Today": "Oggi",
+    "Update": "Aggiornamento",
+    "Close": "Chiudi",
+    "Interval": "Intervallo",
+    "Bulk Time": "Tempo Forfettario",
+    "Timesheet": "Foglio Presenze",
+    "Settings": "Impostazioni",
+    "Logout": "Disconnessione",
+    "Add Time": "Aggiungi tempo",
+    "Edit Entry": "Modifica Voce",
+    "Add Entry": "Aggiungi voce",
+    "General": "Generale",
+    "Theme": "Tema",
+    "minutes": "minuti",
+    "Stopwatch": "Cronometro",
+    "Start": "Avvia",
+    "hr": "h",
+    "Duration": "Durata",
+    "Title": "Titolo",
+    "Select Task": "Seleziona Attività"
+}

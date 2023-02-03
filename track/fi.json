@@ -1,1 +1,22 @@
-{}
+{
+    "Add Task": "Lisää tehtävä",
+    "Cancel": "Peruuta",
+    "Today": "Tänään",
+    "Update": "Päivitä",
+    "Interval": "Väli",
+    "Timer": "Ajastin",
+    "Settings": "Asetukset",
+    "Logout": "Uloskirjatuminen",
+    "Add Time": "Lisää aikaa",
+    "Edit Entry": "Muokkaa merkintää",
+    "Add Entry": "Lisää merkintä",
+    "General": "Yleiset",
+    "Theme": "Teema",
+    "minutes": "minuutit",
+    "Start": "Aloita",
+    "Duration": "Kesto",
+    "Title": "Nimike",
+    "Agenda": "Esityslista",
+    "Apps": "Sovellukset",
+    "Select Task": "Valitse tehtävä"
+}

@@ -1,1 +1,22 @@
-{}
+{
+    "Add Task": "Adicionar Tarefa",
+    "Cancel": "Cancelar",
+    "Today": "Hoje",
+    "Update": "Atualizar",
+    "Close": "Fechar",
+    "Interval": "Período",
+    "Timer": "Cronômetro",
+    "Settings": "Configurações",
+    "Logout": "Sair",
+    "Add Time": "Adicionar Atividade",
+    "Edit Entry": "Editar Entrada",
+    "Add Entry": "Adicionar Entrada",
+    "General": "Geral",
+    "Theme": "Tema",
+    "minutes": "minutos",
+    "Start": "Início",
+    "Duration": "Duração",
+    "Title": "Título",
+    "Agenda": "Extrato",
+    "Select Task": "Selecionar Tarefa"
+}

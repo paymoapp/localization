@@ -1,1 +1,27 @@
-{}
+{
+    "Add Task": "Aufgabe hinzufügen",
+    "Cancel": "Abbrechen",
+    "Entry Note": "Eintragungsnotiz",
+    "Today": "Heute",
+    "Update": "Aktualisierung",
+    "Close": "Schließen",
+    "Interval": "Intervall",
+    "Bulk Time": "Stapel-Zeiterfassung",
+    "All Tasks": "Alle Aufgaben",
+    "Timesheet": "Zeiterfassung",
+    "Timer": "Zeitgeber",
+    "Settings": "Einstellungen",
+    "Logout": "Abmelden",
+    "Add Time": "Zeit hinzufügen",
+    "Edit Entry": "Eintrag bearbeiten",
+    "Add Entry": "Eintrag hinzufügen",
+    "General": "Allgemein",
+    "Theme": "Thema",
+    "minutes": "Minuten",
+    "Stopwatch": "Stoppuhr",
+    "hr": "Std",
+    "Duration": "Dauer",
+    "Title": "Titel",
+    "Entries": "Einträge",
+    "Select Task": "Aufgabe auswählen"
+}

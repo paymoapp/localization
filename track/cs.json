@@ -1,1 +1,26 @@
-{}
+{
+    "hr": "hod.",
+    "Add Task": "Přidat úkol",
+    "Cancel": "Storno",
+    "Entry Note": "Zápis poznámky",
+    "Today": "Dnes",
+    "Update": "Aktualizovat",
+    "Close": "Zavřit",
+    "Bulk Time": "Hromadný čas",
+    "Timesheet": "Pracovní výkaz",
+    "Timer": "Časovač",
+    "Settings": "Nastavení",
+    "Logout": "Odhlásit",
+    "Add Time": "Přidat čas",
+    "Edit Entry": "Upravit položku",
+    "Add Entry": "Přidat položku",
+    "General": "Obecné",
+    "Theme": "Motiv",
+    "minutes": "minut",
+    "Stopwatch": "Stopky",
+    "Start": "Spustit",
+    "Duration": "Doba trvání",
+    "Title": "Nadpis",
+    "Apps": "Aplikace",
+    "Select Task": "Vybrat úkol"
+}

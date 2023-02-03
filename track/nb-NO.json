@@ -1,1 +1,21 @@
-{}
+{
+    "Add Task": "Ny oppgave",
+    "Cancel": "Avbryt",
+    "Today": "I dag",
+    "Update": "Oppdater",
+    "Interval": "Periode",
+    "minutes": "minutter",
+    "Duration": "Varighet",
+    "Title": "Tittel",
+    "Agenda": "Fremdriftsplan",
+    "Apps": "Programmer",
+    "Select Task": "Velg oppgave",
+    "Timer": "Tidtaker",
+    "Settings": "Innstillinger",
+    "Logout": "Logg ut",
+    "Add Time": "Legg til tid",
+    "Edit Entry": "Rediger oppføring",
+    "Add Entry": "Legg til oppføring",
+    "General": "Generell",
+    "Theme": "Tema"
+}

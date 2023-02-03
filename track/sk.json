@@ -1,1 +1,22 @@
-{}
+{
+    "Add Task": "Pridať úlohu",
+    "Cancel": "Zrušiť",
+    "Today": "Dnes",
+    "Update": "Aktualizovať",
+    "minutes": "minút",
+    "Start": "Začiatok",
+    "hr": "hod",
+    "Duration": "Trvanie",
+    "Title": "Nadpis",
+    "Apps": "Aplikácie",
+    "Select Task": "Vybrať úlohu",
+    "Close": "Zavrieť",
+    "Timer": "Časomiera",
+    "Settings": "Nastavenia",
+    "Logout": "Odhlásenie",
+    "Add Time": "Pridať čas",
+    "Edit Entry": "Upraviť  položku",
+    "Add Entry": "Pridať záznam",
+    "General": "Všeobecný",
+    "Theme": "Téma"
+}

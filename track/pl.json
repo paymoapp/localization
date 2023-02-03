@@ -1,1 +1,23 @@
-{}
+{
+    "Add Task": "Dodaj zadanie",
+    "Cancel": "Anuluj",
+    "Today": "Dziś",
+    "Update": "Aktualizuj",
+    "Close": "Zamknij",
+    "Interval": "Częstotliwość",
+    "Timer": "Licznik czasu",
+    "Settings": "Ustawienia",
+    "Logout": "Wyloguj się",
+    "Add Time": "Dodaj czas",
+    "Edit Entry": "Edytuj wpis",
+    "Add Entry": "Dodaj wpis",
+    "General": "Ogólnie",
+    "Theme": "Motyw",
+    "minutes": "minut",
+    "hr": "gdz.",
+    "Duration": "Czas trwania",
+    "Title": "Tytuł",
+    "Agenda": "Plan",
+    "Apps": "Aplikacje",
+    "Select Task": "Wybierz zadanie"
+}

@@ -99,6 +99,8 @@
   "Entries": "Entries",
   "Drag entries here": "Drag entries here",
   "Select Task": "Select Task",
+  "{count} Bulk Entry_one": "{count} Bulk Entry",
+  "{count} Bulk Entry_other": "{count} Bulk Entries",
   "You need to grant Screen Recording permission to Paymo Track in System Preferences > Security & Privacy > Privacy > Screen Recording": "You need to grant Screen Recording permission to Paymo Track in System Preferences > Security & Privacy > Privacy > Screen Recording",
   "Permission required": "Permission required"
 }

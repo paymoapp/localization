@@ -274,6 +274,7 @@
   "Copy Permalink": "Copy Permalink",
   "Copy to Clipboard": "Copy to Clipboard",
   "Cost": "Cost",
+  "Cost can't be empty!": "Cost can't be empty!",
   "Costs": "Costs",
   "Create": "Create",
   "Create {count} task": "Create {count} task",

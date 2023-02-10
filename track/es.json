@@ -31,5 +31,10 @@
     "Agenda": "Agenda",
     "Apps": "Apps",
     "Entries": "Entradas",
-    "Select Task": "Seleccionar tarea"
+    "Select Task": "Seleccionar tarea",
+    "Check for Updates": "Buscar actualizaciones",
+    "Add a New Task": "Añadir una nueva tarea",
+    "Break": "Pausa",
+    "Checking for updates...": "Buscando actualizaciones...",
+    "An update is available": "Actualización disponible"
 }

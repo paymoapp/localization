@@ -25,5 +25,10 @@
     "Agenda": "Dnevni red",
     "Apps": "Aplikacije",
     "Select Task": "Odaberi zadatak",
-    "Entries": "Unosi"
+    "Entries": "Unosi",
+    "Save Entry": "Spremi unos",
+    "search projects": "pretraži projekte",
+    "search tasks": "pretraži zadatke",
+    "Recent Tasks": "nedavni zadatci",
+    "Stop": "Zaustavi"
 }

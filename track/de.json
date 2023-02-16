@@ -23,5 +23,11 @@
     "Duration": "Dauer",
     "Title": "Titel",
     "Entries": "Einträge",
-    "Select Task": "Aufgabe auswählen"
+    "Select Task": "Aufgabe auswählen",
+    "Recent Tasks": "Letzte Aufgaben",
+    "Save Entry": "Eintrag speichern",
+    "search projects": "Projekte suchen",
+    "search tasks": "Suchaufgaben",
+    "Start": "Start",
+    "Stop": "Stop"
 }

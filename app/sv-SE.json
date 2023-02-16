@@ -3304,5 +3304,15 @@
     "Tax Rate": "Skattesats",
     "Tax Label": "Rubrik skatt",
     "Tax label exceeds 255 characters.": "Rubriken överstiger 255 tecken.",
-    "retainer agreement": "Retaineravtal"
+    "retainer agreement": "Retaineravtal",
+    "Billing Priority Change Successful": "Fakturaprioritet ändrad",
+    "Cost can't be empty!": "Kostnad kan inte vara tomt!",
+    "Hourly Rate Change Successful": "Timtaxan ändrad",
+    "Leave as is": "Låt vara",
+    "No items matches your search": "Din sökning gav inga träffar",
+    "No tag matches your search": "Din sökning gav inga träffar",
+    "The hourly rate used for billing has been updated and will be the new rate going forward. Would you also like to apply this change to previously recorded hours?": "Timtaxan som används vid fakturering har uppdaterats och kommer att vara den nya taxan framöver. Vill du använda denna ändring även på tidigare loggade timmar?",
+    "User cost history for {name} ": "Kostnadshistoria för {name} ",
+    "The billing priority used for billing has been updated and will be the new priority going forward. Would you also like to apply this change to previously recorded hours?": "Fakturaprioritet som används vid fakturering har uppdaterats och kommer att användas i fortsättningen. Vill du också använda denna prioritet på tidigare loggade timmar?",
+    "This is the current cost": "Detta är den nuvarande kostnaden"
 }

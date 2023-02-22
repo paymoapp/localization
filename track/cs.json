@@ -99,5 +99,7 @@
     "Entries": "Záznamy",
     "Drag entries here": "Přetáhněte záznamy sem",
     "You need to grant Screen Recording permission to Paymo Track in System Preferences > Security & Privacy > Privacy > Screen Recording": "Je třeba udělit Paymo Track oprávnění k nahrávání obrazovky v části Předvolby systému > Zabezpečení a soukromí > Soukromí > Nahrávání obrazovky",
-    "Permission required": "Vyžaduje se povolení"
+    "Permission required": "Vyžaduje se povolení",
+    "{count} Bulk Entry_one": "{count} záznam",
+    "{count} Bulk Entry_other": "{count} záznamů"
 }

@@ -3314,5 +3314,9 @@
     "The hourly rate used for billing has been updated and will be the new rate going forward. Would you also like to apply this change to previously recorded hours?": "Timtaxan som används vid fakturering har uppdaterats och kommer att vara den nya taxan framöver. Vill du använda denna ändring även på tidigare loggade timmar?",
     "User cost history for {name} ": "Kostnadshistoria för {name} ",
     "The billing priority used for billing has been updated and will be the new priority going forward. Would you also like to apply this change to previously recorded hours?": "Fakturaprioritet som används vid fakturering har uppdaterats och kommer att användas i fortsättningen. Vill du också använda denna prioritet på tidigare loggade timmar?",
-    "This is the current cost": "Detta är den nuvarande kostnaden"
+    "This is the current cost": "Detta är den nuvarande kostnaden",
+    "All time": "All tid",
+    "Looks like you have unfinished work. Would you like to leave and discard or stay and continue editing?": "Verkar som om du har oavslutat arbete. Vill du lämna och avbryta eller stanna och fortsätta redigera?",
+    "Stay": "Stanna",
+    "Unsaved Changes": "Ej sparade ändringar"
 }

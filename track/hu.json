@@ -100,5 +100,13 @@
     "Login to get started": "A kezdéshez jelentkezz be",
     "Please login in your browser to authorize the desktop app": "Kérlek jelentkezz be a böngésződben, hogy engedélyezd az alkalmazást",
     "No application entries": "Nincs alkalmazás bejegyzés",
-    "You need to grant Screen Recording permission to Paymo Track in System Preferences > Security & Privacy > Privacy > Screen Recording": "Engedélyezned kell a képernyő rögzítést a Paymo Track számára a Rendszer beállítások > Biztonság és adatvédelem > Adatvédelem > Képernyő rögzítés menünél"
+    "You need to grant Screen Recording permission to Paymo Track in System Preferences > Security & Privacy > Privacy > Screen Recording": "Engedélyezned kell a képernyő rögzítést a Paymo Track számára a Rendszer beállítások > Biztonság és adatvédelem > Adatvédelem > Képernyő rögzítés menünél",
+    "Resume Automatic Tracking": "Automatikus időmérés folytatása",
+    "{count} other apps_one": "További {count} alkalmazás",
+    "+ {count} other app (expand to see all)_one": "+ további {count} alkalmazás (nyisd ki a továbbiakhoz)",
+    "+ {count} other app (expand to see all)_other": "+ további {count} alkalmazás (nyisd ki a továbbiakhoz)",
+    "Pause Automatic Tracking": "Automatikus időmérés szüneteltetése",
+    "{count} other apps_other": "További {count} alkalmazás",
+    "{count} Bulk Entry_one": "{count} ömlesztett bejegyzés",
+    "{count} Bulk Entry_other": "{count} ömlesztett bejegyzés"
 }

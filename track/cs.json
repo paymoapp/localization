@@ -102,5 +102,11 @@
     "Permission required": "Vyžaduje se povolení",
     "{count} Bulk Entry_one": "{count} záznam",
     "{count} Bulk Entry_other": "{count} záznamů",
-    "About": "O aplikaci"
+    "About": "O aplikaci",
+    "+ {count} other app (expand to see all)_other": "+ {count} dalších aplikací (rozbalit pro zobrazení)",
+    "{count} other apps_other": "{count} dalších aplikací",
+    "+ {count} other app (expand to see all)_one": "+ {count} další aplikace (rozbalit pro zobrazení)",
+    "Pause Automatic Tracking": "Pozastavit automatické sledování",
+    "Resume Automatic Tracking": "Obnovit automatické vykazování",
+    "{count} other apps_one": "{count} další aplikace"
 }

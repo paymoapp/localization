@@ -101,5 +101,11 @@
     "Greater than {seconds} sec": "Más de {seconds} s",
     "min": "min",
     "No application entries": "Sin entradas de la aplicación",
-    "Permission required": "Permiso requerido"
+    "Permission required": "Permiso requerido",
+    "+ {count} other app (expand to see all)_one": "+ {count} app más (expandir para ver todas)",
+    "{count} other apps_other": "{count} apps más",
+    "Pause Automatic Tracking": "Pausar temporizador automático",
+    "Resume Automatic Tracking": "Reanudar temporizador automático",
+    "{count} other apps_one": "{count} app más",
+    "+ {count} other app (expand to see all)_other": "+ {count} apps más (expandir para ver todas)"
 }

@@ -2554,7 +2554,7 @@
     "User Type": "Tipo de usuario",
     "Replies": "Respuestas",
     "File Extension": "Extensión del archivo",
-    "Time Entry": "Entrada de tiempo",
+    "Time Entry": "Tiempo",
     "You’ve reached your storage limit. Upgrade to the Small Office to benefit from 50GB of storage or the Business plan for 100GB of storage.": "Ha alcanzado el límite de almacenamiento. Cambie a Small Office para beneficiarse de 50GB de almacenamiento o a Business plan para 100GB.",
     "Csv": "Csv",
     "Gantt": "Gantt",
@@ -3313,5 +3313,6 @@
     "All time": "Todo el tiempo",
     "Stay": "Permanecer",
     "Unsaved Changes": "Cambios no guardados",
-    "Looks like you have unfinished work. Would you like to leave and discard or stay and continue editing?": "Parece que tiene trabajo sin terminar. ¿Le gustaría salir y descartar o quedarse y continuar editando?"
+    "Looks like you have unfinished work. Would you like to leave and discard or stay and continue editing?": "Parece que tiene trabajo sin terminar. ¿Le gustaría salir y descartar o quedarse y continuar editando?",
+    "Rewards": "Recompensas"
 }

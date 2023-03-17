@@ -107,5 +107,15 @@
     "Pause Automatic Tracking": "Pausar temporizador automático",
     "Resume Automatic Tracking": "Reanudar temporizador automático",
     "{count} other apps_one": "{count} app más",
-    "+ {count} other app (expand to see all)_other": "+ {count} apps más (expandir para ver todas)"
+    "+ {count} other app (expand to see all)_other": "+ {count} apps más (expandir para ver todas)",
+    "{min} minutes": "{min} minutos",
+    "Click to copy": "Clique para copiar",
+    "Discard Idle Time": "Descartar tiempo inactivo",
+    "Keep Idle Time": "Mantener el tiempo inactivo",
+    "Something went wrong": "Algo fue mal",
+    "{hr} hours and {min} minutes": "{h} horas y {min} minutos",
+    "A problem caused Paymo Track to stop working correctly. This error is automatically reported and we're working on fixing it as soon as possible.": "Un problema hizo que Paymo Track dejara de funcionar correctamente. Este error se comunica automáticamente y estamos trabajando para solucionarlo lo antes posible.",
+    "Idle Time Alert": "Alerta de tiempo inactivo",
+    "Reload application": "Recargar aplicación",
+    "You've been idle since {time}": "Ha estado inactivo desde {time}"
 }

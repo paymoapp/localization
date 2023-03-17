@@ -1786,6 +1786,7 @@
     "Send Invites": "Enviar invitaciones",
     "Send invoice": "Enviar factura",
     "Send Invoice": "Enviar factura",
+    "Send Invoice_plural": "Enviar facturas",
     "Send invoices": "Enviar facturas",
     "Send Invoices": "Enviar facturas",
     "Send Notification": "Enviar notificación",
@@ -2305,7 +2306,7 @@
     "You're currently on the free plan. To add more users you need to start your free 15 day trial period (you won't be charged for 15 days during the trial, you can cancel at any time": "Actualmente dispones del plan gratuito. Para añadir más usuarios, necesitas empezar tu prueba de 15 días (no se te cobrará durante la prueba de 15 días y puedes cancelar en cualquier momento",
     "You've hit the free plan limit": "Has alcanzado el límite del plan gratuito",
     "Your account has been created, but Paymo is not optimized to run on a tablet or smartphone. Please access your account using a desktop or laptop.": "Su cuenta ha sido creada, pero Paymo no está optimizado para usarse en tabletas o teléfonos inteligentes. Por favor, acceda a su cuenta usando un ordenador.",
-    "Your comment will be emailed to": "Tu comentario se enviará por correo a",
+    "Your comment will be emailed to": "Su comentario se enviará por email a",
     "Your company has been deleted and your Paymo subscription (in case you've had one) has been canceled.": "Su empresa ha sido eliminada y su suscripción a Paymo (en caso de que haya tenido una) ha sido cancelada.",
     "Your note here": "Tu nota aquí",
     "Your password and confirmation password do not match": "Su contraseña y la contraseña de confirmación no coinciden",
@@ -3314,5 +3315,13 @@
     "Stay": "Permanecer",
     "Unsaved Changes": "Cambios no guardados",
     "Looks like you have unfinished work. Would you like to leave and discard or stay and continue editing?": "Parece que tiene trabajo sin terminar. ¿Le gustaría salir y descartar o quedarse y continuar editando?",
-    "Rewards": "Recompensas"
+    "Rewards": "Recompensas",
+    "Send Estimate {number} via Email": "Enviar presupuesto {number} vía email",
+    "Send Invoice {number} via Email": "Enviar factura {number} vía email",
+    "Estimate status is updated only if your client views the estimate via the permalink": "El estado del presupuesto se actualiza sólo si su cliente ve el presupuesto a través del enlace permanente",
+    "Estimate status is updated only if your client views the invoice via the permalink": "El estado de su presupuesto se actualiza sólo si su cliente lo ve a través del enlace permanente",
+    "Not valid email": "Email no válido",
+    "Send Invoice via Email": "Enviar factura vía email",
+    "Send Invoice via Email_plural": "Enviar facturas vía email",
+    "via Email": "vía email"
 }

@@ -117,5 +117,13 @@
     "A problem caused Paymo Track to stop working correctly. This error is automatically reported and we're working on fixing it as soon as possible.": "Un problema hizo que Paymo Track dejara de funcionar correctamente. Este error se comunica automáticamente y estamos trabajando para solucionarlo lo antes posible.",
     "Idle Time Alert": "Alerta de tiempo inactivo",
     "Reload application": "Recargar aplicación",
-    "You've been idle since {time}": "Ha estado inactivo desde {time}"
+    "You've been idle since {time}": "Ha estado inactivo desde {time}",
+    "Clear application data": "Borrar datos de la aplicación",
+    "Click again to confirm": "Clique de nuevo para confirmar",
+    "Clear application entries": "Borrar entradas de la aplicación",
+    "Done": "Hecho",
+    "Reset application": "Restablecer aplicación",
+    "This will delete the automatically tracked application entries stored on your local device. This can not be undone and it will not affect the entries created in Paymo.": "Ésto eliminará las entradas de aplicaciones rastreadas automáticamente y almacenadas en su dispositivo. Ésto no se puede deshacer y no afectará las entradas creadas en Paymo.",
+    "This will log you out, clear your application entries and reset the settings. This can not be undone and it will not affect your data stored in Paymo.": "Ésto lo cerrará, borrará las entradas de su aplicación y restablecerá la configuración. No se puede deshacer y no afectará sus datos almacenados en Paymo.",
+    "Your debug token:": "Su token de depuración:"
 }

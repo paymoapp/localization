@@ -3323,5 +3323,10 @@
     "Not valid email": "Email no válido",
     "Send Invoice via Email": "Enviar factura vía email",
     "Send Invoice via Email_plural": "Enviar facturas vía email",
-    "via Email": "vía email"
+    "via Email": "vía email",
+    "Billable Status": "Estado de facturación",
+    "Create \"{name}\"": "Crear \"{name}\"",
+    "enter tag name": "introducir nombre de etiqueta",
+    "Non billable": "No facturable",
+    "Reimbursable to": "Reembolsable a"
 }

@@ -42,5 +42,7 @@
     "Agenda": "Agendă",
     "Apps": "Aplicații",
     "Entries": "Intrări",
-    "Select Task": "Selectează sarcina"
+    "Select Task": "Selectează sarcina",
+    "Done": "Finalizat",
+    "Something went wrong": "Ceva nu a funcționat corespunzător"
 }

@@ -118,5 +118,12 @@
     "All app activity": "Toda a atividade da aplicação",
     "Break": "Pausa",
     "Enable sounds": "Ativar sons",
-    "Stop": "Parar"
+    "Stop": "Parar",
+    "Done": "Feito",
+    "Clear application data": "Limpar dados da aplicação",
+    "Clear application entries": "Limpar entradas da aplicação",
+    "Click again to confirm": "Clique novamente para confirmar",
+    "Reset application": "Restaurar aplicação",
+    "This will delete the automatically tracked application entries stored on your local device. This can not be undone and it will not affect the entries created in Paymo.": "Isto irá excluir as entradas de aplicações rastreadas automaticamente armazenadas no seu dispositivo local. Esta ação não pode ser desfeita e não afetará as entradas criadas no Paymo.",
+    "This will log you out, clear your application entries and reset the settings. This can not be undone and it will not affect your data stored in Paymo.": "Isto irá terminar a sua sessão, limpará as entradas da aplicação e irá redefinir as configurações. Isto não pode ser desfeito e não afetará os seus dados armazenados no Paymo."
 }

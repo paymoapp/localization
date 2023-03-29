@@ -123,7 +123,12 @@
     "Clear application data": "Limpar dados da aplicação",
     "Clear application entries": "Limpar entradas da aplicação",
     "Click again to confirm": "Clique novamente para confirmar",
-    "Reset application": "Restaurar aplicação",
+    "Reset application": "Redefinir aplicação",
     "This will delete the automatically tracked application entries stored on your local device. This can not be undone and it will not affect the entries created in Paymo.": "Isto irá eliminar as entradas de aplicações rastreadas automaticamente armazenadas no seu dispositivo local. Esta ação não pode ser desfeita e não afetará as entradas criadas no Paymo.",
-    "This will log you out, clear your application entries and reset the settings. This can not be undone and it will not affect your data stored in Paymo.": "Isto irá terminar a sua sessão, limpará as entradas da aplicação e irá redefinir as configurações. Isto não pode ser desfeito e não afetará os seus dados armazenados no Paymo."
+    "This will log you out, clear your application entries and reset the settings. This can not be undone and it will not affect your data stored in Paymo.": "Isto irá terminar a sua sessão, limpará as entradas da aplicação e irá redefinir as configurações. Isto não pode ser desfeito e não afetará os seus dados armazenados no Paymo.",
+    "{count} minute ago_one": "{count} minuto atrás",
+    "Delete locally stored data": "Eliminar dados localmente armazenados",
+    "{count} minute ago_other": "{count} minutos atrás",
+    "Last update check": "Verificação da última atualização",
+    "now": "agora"
 }

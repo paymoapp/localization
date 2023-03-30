@@ -3404,5 +3404,7 @@
     "The billing priority used for billing has been updated and will be the new priority going forward. Would you also like to apply this change to previously recorded hours?": "Prioritatea de facturare folosită pentru facturare a fost actualizată și va fi noua prioritate în viitor. Doriți să aplicați această modificare și orelor înregistrate anterior?",
     "User cost history for {name} ": "Istoria costului utilizatorului {name} ",
     "All time": "Tot timpul",
-    "Rewards": "Recompense"
+    "Rewards": "Recompense",
+    "Note exceeds 1024 characters.": "Notița depășește 1024 de caractere.",
+    "Amount is required.": "Este necesară suma."
 }

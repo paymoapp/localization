@@ -89,7 +89,7 @@
     "Trying to reconnect to the service": "Intentando reconectar con el servicio",
     "You can no longer use this version of the application.\nPlease update now!": "Ya no puede utilizar esta versión de la aplicación.\n¡Por favor actualice ahora!",
     "Connection lost": "Conexión perdida",
-    "Delete Entry": "Entrada borrada",
+    "Delete Entry": "Borrar entrada",
     "Downloading Update": "Descargando actualización",
     "About": "Acerca de",
     "{count} Bulk Entry_one": "{count} Entrada por lote",
@@ -125,5 +125,10 @@
     "Reset application": "Restablecer aplicación",
     "This will delete the automatically tracked application entries stored on your local device. This can not be undone and it will not affect the entries created in Paymo.": "Ésto eliminará las entradas de aplicaciones rastreadas automáticamente y almacenadas en su dispositivo. Ésto no se puede deshacer y no afectará las entradas creadas en Paymo.",
     "This will log you out, clear your application entries and reset the settings. This can not be undone and it will not affect your data stored in Paymo.": "Ésto lo cerrará, borrará las entradas de su aplicación y restablecerá la configuración. No se puede deshacer y no afectará sus datos almacenados en Paymo.",
-    "Your debug token:": "Su token de depuración:"
+    "Your debug token:": "Su token de depuración:",
+    "{count} minute ago_one": "hace {count} minuto",
+    "Last update check": "Comprobación de la última actualización",
+    "{count} minute ago_other": "hace {count} minutos",
+    "Delete locally stored data": "Borrar datos almacenados localmente",
+    "now": "ahora"
 }

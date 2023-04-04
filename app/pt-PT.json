@@ -3330,5 +3330,7 @@
     "via Email": "por E-mail",
     "Send Invoice {number} via Email": "Enviar Fatura {number} por E-mail",
     "Amount is required.": "O montante é obrigatório.",
-    "Note exceeds 1024 characters.": "A nota excede 1024 caracteres."
+    "Note exceeds 1024 characters.": "A nota excede 1024 caracteres.",
+    "Download failed. Please try again!": "A transferência falhou. Por favor, tente novamente!",
+    "Downloading": "A transferir"
 }

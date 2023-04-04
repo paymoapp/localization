@@ -399,6 +399,8 @@
   "Document Status": "Document Status",
   "Done": "Done",
   "Download": "Download",
+  "Download failed. Please try again!": "Download failed. Please try again!",
+  "Downloading": "Downloading",
   "Draft": "Draft",
   "Due Date": "Due Date",
   "Duplicate Project": "Duplicate Project",

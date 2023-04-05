@@ -3333,5 +3333,9 @@
     "Estimate status is updated only if your client views the invoice via the permalink": "Estimatstatus uppdateras bara om kunden granskar estimatet via permalänken",
     "Billable Status": "Fakturerbart status",
     "Reimbursable to": "Ersättningsbart till",
-    "Rewards": "Belöningar"
+    "Rewards": "Belöningar",
+    "Download failed. Please try again!": "Nedladdningen misslyckades. Försök igen!",
+    "Note exceeds 1024 characters.": "Anteckningen överskrider 1024 tecken.",
+    "Downloading": "Laddar ned",
+    "Amount is required.": "Belopp är obligatoriskt."
 }

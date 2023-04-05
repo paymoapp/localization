@@ -3330,5 +3330,7 @@
     "Non billable": "No facturable",
     "Reimbursable to": "Reembolsable a",
     "Amount is required.": "Se requiere cantidad.",
-    "Note exceeds 1024 characters.": "La nota supera los 1024 caracteres."
+    "Note exceeds 1024 characters.": "La nota supera los 1024 caracteres.",
+    "Download failed. Please try again!": "Descarga fallida. ¡Por favor inténtelo de nuevo!",
+    "Downloading": "Descargando"
 }

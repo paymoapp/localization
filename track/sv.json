@@ -125,5 +125,10 @@
     "{count} other apps_one": "{count} annan app",
     "+ {count} other app (expand to see all)_other": "+ {count} andra appar (expandera för att se alla)",
     "{count} Bulk Entry_other": "{count} Bulkinmatningar",
-    "{count} Bulk Entry_one": "{count} Bulkinmatning"
+    "{count} Bulk Entry_one": "{count} Bulkinmatning",
+    "{count} minute ago_one": "{count} minut sedan",
+    "{count} minute ago_other": "{count} minuter sen",
+    "Delete locally stored data": "Radera lokalt sparad data",
+    "Last update check": "Senast uppdateringen",
+    "now": "nu"
 }

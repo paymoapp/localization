@@ -130,5 +130,8 @@
     "Last update check": "Comprobación de la última actualización",
     "{count} minute ago_other": "hace {count} minutos",
     "Delete locally stored data": "Borrar datos almacenados localmente",
-    "now": "ahora"
+    "now": "ahora",
+    "Take a small break!": "¡Haga una pequeña pausa!",
+    "Close Pomodoro": "Cerrar Pomodoro",
+    "Take a long break!": "¡Haga una pausa larga!"
 }

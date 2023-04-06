@@ -130,5 +130,8 @@
     "Delete locally stored data": "Eliminar dados localmente armazenados",
     "{count} minute ago_other": "{count} minutos atrás",
     "Last update check": "Verificação da última atualização",
-    "now": "agora"
+    "now": "agora",
+    "Take a long break!": "Faça uma pausa longa!",
+    "Take a small break!": "Faça uma pausa curta!",
+    "Close Pomodoro": "Fechar Pomodoro"
 }

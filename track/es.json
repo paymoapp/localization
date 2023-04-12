@@ -133,5 +133,7 @@
     "now": "ahora",
     "Take a small break!": "¡Haga una pequeña pausa!",
     "Close Pomodoro": "Cerrar Pomodoro",
-    "Take a long break!": "¡Haga una pausa larga!"
+    "Take a long break!": "¡Haga una pausa larga!",
+    "Guest Access Disabled": "Acceso de invitados deshabilitados",
+    "This application can not be used by guest users.": "Esta aplicación no puede ser utilizada por usuarios invitados."
 }

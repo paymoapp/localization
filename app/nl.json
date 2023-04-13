@@ -1164,7 +1164,7 @@
     "Later this Week": "Later deze week",
     "Latest Events": "Laatste ",
     "Learn More": "Meer info",
-    "Leave": "Verlof",
+    "Leave": "Stoppen",
     "Leave day added": "Verlofdag toegevoegd",
     "Leave day deleted": "Verlofdag verwijderd",
     "Leave day updated": "Verlofdag bijgewerkt",
@@ -3309,5 +3309,6 @@
     "User cost history for {name} ": "Geschiedenis van gebruikerskosten voor {name} ",
     "The billing priority used for billing has been updated and will be the new priority going forward. Would you also like to apply this change to previously recorded hours?": "De factureringsprioriteit die wordt gebruikt voor facturering is bijgewerkt. Dit wordt vanaf nu de nieuwe prioriteit. Wil je deze wijziging ook toepassen op eerder geregistreerde uren?",
     "The hourly rate used for billing has been updated and will be the new rate going forward. Would you also like to apply this change to previously recorded hours?": "Het uurtarief dat wordt gebruikt voor facturering is bijgewerkt en zal vanaf nu het nieuwe tarief zijn. Wil je deze wijziging ook toepassen op eerder geregistreerde uren?",
-    "This is the current cost": "Dit zijn de huidige kosten"
+    "This is the current cost": "Dit zijn de huidige kosten",
+    "Stay": "Doorgaan"
 }

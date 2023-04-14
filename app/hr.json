@@ -2732,7 +2732,7 @@
     "retainer agreement": "dogovor o naknadi",
     "Time entries were updated.<1></1>Would you like to reload the report?": "",
     "The current task has bookings.": "Trenutno odabrani zadatak ima rezervacije.",
-    "All tasks will keep their <1>invoiced</1> status.": "",
+    "All tasks will keep their <1>invoiced</1> status.": "Svi zadatci će zadržati <1>fakturirani</1> status.",
     "Are you sure you want to delete the <1>{{name}}</1> expense?": "",
     "Change Recurring Task Profile": "",
     "You can't delete this leave type, it is used by one or several leave days.": "",
@@ -3110,7 +3110,7 @@
     "Should be no later than project retainer end date": "Ne smije biti kasniji nego dan sačuvaoca projekta",
     "The {name} estimate template can't be deleted because it's currently in use!": "{name} predložak ne može se pobrisati jer se trenutno koristi!",
     "This action requires you to reload the page.": "Potrebno je ponovno učitavanje stranice.",
-    "All tasks will be reset to <1>non-billable</1>.": "",
+    "All tasks will be reset to <1>non-billable</1>.": "Svi zadatci će biti vraćeni na <1>nenaplative/1>.",
     "Are you sure you want to delete the <1>{{name}}</1> key?": "",
     "Hours available": "Sati su dostupni",
     "Are you sure you want to<1> archive </1>these<3> {{clients}}</3> clients and all of their active projects?": "",
@@ -3401,5 +3401,9 @@
     "Create \"{name}\"": "Kreiraj \"{name}\"",
     "Non billable": "Nenaplativo",
     "enter tag name": "unesi ime oznake",
-    "Reimbursable to": "Nadoknadivo prema"
+    "Reimbursable to": "Nadoknadivo prema",
+    "Download failed. Please try again!": "Preuzimanje nije uspjelo. Pokušajte ponovno!",
+    "Note exceeds 1024 characters.": "Zabilješka prelazi 1024 znakova.",
+    "Downloading": "Preuzima se",
+    "Amount is required.": "Potreban je iznos."
 }

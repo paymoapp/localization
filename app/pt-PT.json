@@ -3332,5 +3332,7 @@
     "Amount is required.": "O montante é obrigatório.",
     "Note exceeds 1024 characters.": "A nota excede 1024 caracteres.",
     "Download failed. Please try again!": "A transferência falhou. Por favor, tente novamente!",
-    "Downloading": "A transferir"
+    "Downloading": "A transferir",
+    "Cancel upload": "Cancelar carregamento",
+    "Remove file": "Remover ficheiro"
 }

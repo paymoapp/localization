@@ -3334,5 +3334,7 @@
     "Download failed. Please try again!": "A transferência falhou. Por favor, tente novamente!",
     "Downloading": "A transferir",
     "Cancel upload": "Cancelar carregamento",
-    "Remove file": "Remover ficheiro"
+    "Remove file": "Remover ficheiro",
+    "No invoice template matches yor search": "Nenhum modelo de fatura corresponde à sua pesquisa",
+    "search templates": "pesquisar modelos"
 }

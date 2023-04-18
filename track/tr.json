@@ -25,5 +25,8 @@
     "hr": "sa",
     "Duration": "Süre",
     "Title": "Başlık",
-    "All Tasks": "Tüm Görevler"
+    "All Tasks": "Tüm Görevler",
+    "Recent Tasks": "Yakındaki Görevler",
+    "search projects": "projelerde ara",
+    "search tasks": "görevlerde ara"
 }

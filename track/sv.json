@@ -130,5 +130,10 @@
     "{count} minute ago_other": "{count} minuter sen",
     "Delete locally stored data": "Radera lokalt sparad data",
     "Last update check": "Senast uppdateringen",
-    "now": "nu"
+    "now": "nu",
+    "Close Pomodoro": "Stäng Pomodoro",
+    "Take a long break!": "Ta en lång paus!",
+    "Take a small break!": "Ta en kort paus!",
+    "Guest Access Disabled": "Gästbehörighet borttagen",
+    "This application can not be used by guest users.": "Denna applikation kan inte användas av gästanvändare."
 }

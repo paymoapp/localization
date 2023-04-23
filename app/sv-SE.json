@@ -3337,5 +3337,9 @@
     "Download failed. Please try again!": "Nedladdningen misslyckades. Försök igen!",
     "Note exceeds 1024 characters.": "Anteckningen överskrider 1024 tecken.",
     "Downloading": "Laddar ned",
-    "Amount is required.": "Belopp är obligatoriskt."
+    "Amount is required.": "Belopp är obligatoriskt.",
+    "Remove file": "Ta bort fil",
+    "search templates": "sök mallar",
+    "Cancel upload": "Avbryt uppladdning",
+    "No invoice template matches yor search": "Ingen fakturamall matchar din sökning"
 }

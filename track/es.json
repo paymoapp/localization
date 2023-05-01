@@ -135,5 +135,19 @@
     "Close Pomodoro": "Cerrar Pomodoro",
     "Take a long break!": "¡Haga una pausa larga!",
     "Guest Access Disabled": "Acceso de invitados deshabilitados",
-    "This application can not be used by guest users.": "Esta aplicación no puede ser utilizada por usuarios invitados."
+    "This application can not be used by guest users.": "Esta aplicación no puede ser utilizada por usuarios invitados.",
+    "Apps Log": "Registro de aplicaciones",
+    "Back": "Atrás",
+    "Open Add Time form (works on Timesheet and Recent Tasks": "Abrir formulario de agregar tiempo (funciona en hojas de tiempo y en tareas recientes)",
+    "Show this help message": "Mostrar este mensaje de ayuda",
+    "Start timer or pomodoro (works on Timer)": "Iniciar temporizador o pomodoro (funciona en el temporizador)",
+    "Jump to next tab": "Saltar a siguiente pestaña",
+    "Jump to previous tab": "Volver a pestaña previa",
+    "Jump to Timer": "Saltar a temporizador",
+    "Jump to Timesheet": "Saltar a hoja de tiempos",
+    "Keyboard shortcuts": "Atajos de teclado",
+    "Time Entries": "Entradas de tiempo",
+    "Idle time": "Tiempo de inactividad",
+    "Jump to Recent Tasks": "Saltar a tareas recientes",
+    "Linked Time Entries": "Registro de tiempos asociados"
 }

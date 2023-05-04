@@ -135,5 +135,19 @@
     "Take a long break!": "Ta en lång paus!",
     "Take a small break!": "Ta en kort paus!",
     "Guest Access Disabled": "Gästbehörighet borttagen",
-    "This application can not be used by guest users.": "Denna applikation kan inte användas av gästanvändare."
+    "This application can not be used by guest users.": "Denna applikation kan inte användas av gästanvändare.",
+    "Apps Log": "Appar Logg",
+    "Back": "Tillbaka",
+    "Show this help message": "Visa detta hjälpmeddelande",
+    "Start timer or pomodoro (works on Timer)": "Starta tidtagare eller pomodoro (fungerar med tidtagare)",
+    "Jump to previous tab": "Gå till förra fliken",
+    "Jump to Timer": "Gå till tidtagare",
+    "Keyboard shortcuts": "Skrivbordsgenvägar",
+    "Idle time": "Overksam tid",
+    "Time Entries": "Tidsinmatningar",
+    "Jump to Timesheet": "Gå till tidrapport",
+    "Linked Time Entries": "Länkade tidsinmatningar",
+    "Jump to next tab": "Gå till nästa flik",
+    "Jump to Recent Tasks": "Gå till senaste uppgifter",
+    "Open Add Time form (works on Timesheet and Recent Tasks": "Öppna formuläret, lägga till tid (fungerar för tidrapporter och senaste uppgifter"
 }

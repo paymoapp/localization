@@ -1643,7 +1643,7 @@
     "Time & Materials Project": "Proiect de tip timp și materiale",
     "Time Budget Alert:": "Alertă buget de timp:",
     "Time Costs": "Costuri de timp",
-    "Time Entries": "Înregistrări de timp lucrat",
+    "Time Entries": "Înregistrări de timp",
     "Time Entries & Reports": "Înregistrări de timp și rapoarte",
     "Time Entry Notes": "Notițe înregistrări de timp",
     "Time Format": "Format oră",
@@ -3406,5 +3406,11 @@
     "All time": "Tot timpul",
     "Rewards": "Recompense",
     "Note exceeds 1024 characters.": "Notița depășește 1024 de caractere.",
-    "Amount is required.": "Este necesară suma."
+    "Amount is required.": "Este necesară suma.",
+    "Cancel upload": "Anulează încărcarea",
+    "No invoice template matches yor search": "Nu a fost găsită nicio factură șablon cu acest nume",
+    "Download failed. Please try again!": "Descărcarea a eșuat. Te rugăm să încerci din nou!",
+    "Downloading": "Se descarcă",
+    "Remove file": "Scoate fișierul",
+    "search templates": "caută șabloane"
 }

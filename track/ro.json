@@ -133,5 +133,20 @@
     "{count} other apps_one": "{count} altă aplicație",
     "{count} Bulk Entry_one": "{count} Înregistrare în masă",
     "All app activity": "Activitatea în toate aplicațiile",
-    "Drag entries here": "Mută intrările aici"
+    "Drag entries here": "Mută intrările aici",
+    "Apps Log": "Aplicații",
+    "Back": "Înapoi",
+    "Open Add Time form (works on Timesheet and Recent Tasks": "Deschide formularul de adăugare de timp (pentru Foaia de Pontaj și Sarcini Recente)",
+    "Show this help message": "Afișează mesajul de ajutor",
+    "Start timer or pomodoro (works on Timer)": "Pornește cronometrul sau Pomodoro (funcționează pentru Cronometru)",
+    "Idle time": "Timp inactiv",
+    "Jump to Recent Tasks": "Mergi la Sarcini Recente",
+    "Jump to previous tab": "Mergi la secțiunea anterioară",
+    "Jump to next tab": "Mergi la secțiunea următoare",
+    "Jump to Timer": "Mergi la Cronometru",
+    "Jump to Timesheet": "Mergi la Foaia de Pontaj",
+    "Keyboard shortcuts": "Scurtături din tastatură",
+    "Linked Time Entries": "Înregistrări de timp atașate",
+    "Time Entries": "Înregistrări de timp",
+    "search apps log": "caută înregistrări"
 }

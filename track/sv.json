@@ -149,5 +149,11 @@
     "Linked Time Entries": "Länkade tidsinmatningar",
     "Jump to next tab": "Gå till nästa flik",
     "Jump to Recent Tasks": "Gå till senaste uppgifter",
-    "Open Add Time form (works on Timesheet and Recent Tasks": "Öppna formuläret, lägga till tid (fungerar för tidrapporter och senaste uppgifter"
+    "Open Add Time form (works on Timesheet and Recent Tasks": "Öppna formuläret, lägga till tid (fungerar för tidrapporter och senaste uppgifter",
+    "search apps log": "sök i appens logg",
+    "Clear selection": "Rensa val",
+    "Delete activities": "Radera aktiviteter",
+    "Delete selected activities": "Radera valda aktiviteter",
+    "{number} selected": "{number} valda",
+    "Are you sure you want to delete these activities?\nThis action is irreversible.": "Är du säker på att du vill radera dessa aktiviteter?\nDetta går inte att ångra."
 }

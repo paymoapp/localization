@@ -181,5 +181,11 @@
     "matches regexp": "corresponde ao regexp",
     "No applications found": "Sem aplicações encontradas",
     "Rule name": "Nome da regra",
-    "search applications": "pesquisar aplicações"
+    "search applications": "pesquisar aplicações",
+    "Create detailed description for linked entries": "Criar descrições detalhadas para entradas associadas",
+    "Timesheet snap interval": "Intervalo da folha de horas",
+    "Include application name": "Incluir nome da aplicação",
+    "Include duration": "Incluir duração",
+    "Include window title": "Incluir título da janela",
+    "Select snap interval": "Selecionar o intervalo"
 }

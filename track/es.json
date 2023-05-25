@@ -181,5 +181,11 @@
     "matches all words": "coinciden todas las palabras",
     "matches phrase": "coincide con la frase",
     "No applications found": "No se encontraron aplicaciones",
-    "Rule name": "Nombre de regla"
+    "Rule name": "Nombre de regla",
+    "Create detailed description for linked entries": "Crear descripciones detalladas para las entradas asociadas",
+    "Select snap interval": "Seleccionar el rango",
+    "Include application name": "Incluir el nombre de la aplicación",
+    "Include duration": "Incluir duración",
+    "Include window title": "Incluir título de ventana",
+    "Timesheet snap interval": "Rango de hoja de tiempos"
 }

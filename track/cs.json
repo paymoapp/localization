@@ -182,5 +182,11 @@
     "matches any word": "shoda kteréhokoliv slova",
     "Open Add Time form (works on Timesheet and Recent Tasks": "Otevřít zadání času (funguje s výkazy času a posledními úkoly",
     "Rule name": "Název pravidla",
-    "search applications": "vyhledat aplikace"
+    "search applications": "vyhledat aplikace",
+    "Create detailed description for linked entries": "Vytvořit detailní popis pro propojené záznamy",
+    "Include application name": "Zahrnout jméno aplikace",
+    "Include duration": "Zahrnout dobu trvání",
+    "Include window title": "Zahrnout titulek okna",
+    "Select snap interval": "Zahrnout interval snímání",
+    "Timesheet snap interval": "Interval časového výkazu"
 }

@@ -3336,5 +3336,11 @@
     "Cancel upload": "Cancelar carregamento",
     "Remove file": "Remover ficheiro",
     "No invoice template matches yor search": "Nenhum modelo de fatura corresponde à sua pesquisa",
-    "search templates": "pesquisar modelos"
+    "search templates": "pesquisar modelos",
+    "App-specific password": "Palavra-passe específica da aplicação",
+    "Apple ID": "ID Apple",
+    "Apple id exceeds 250 characters.": "A id Apple excede 250 caracteres.",
+    "Connect": "Conectar",
+    "Connect to Apple Calendar": "Conectar ao Calendário Apple",
+    "Password exceeds 250 characters.": "A palavra-passe excede 250 caracteres."
 }

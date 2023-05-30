@@ -3336,5 +3336,11 @@
     "No invoice template matches yor search": "Ninguna plantilla de factura coincide con su búsqueda",
     "Cancel upload": "Cancelar carga",
     "Remove file": "Eliminar archivo",
-    "search templates": "buscar plantillas"
+    "search templates": "buscar plantillas",
+    "App-specific password": "Contraseña específica de la App",
+    "Apple ID": "ID Apple",
+    "Apple id exceeds 250 characters.": "ID Apple supera los 250 caracteres.",
+    "Connect": "Conectar",
+    "Connect to Apple Calendar": "Conectar al Calendario de Apple",
+    "Password exceeds 250 characters.": "La contraseña supera los 250 caracteres."
 }

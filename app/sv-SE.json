@@ -3341,5 +3341,11 @@
     "Remove file": "Ta bort fil",
     "search templates": "sök mallar",
     "Cancel upload": "Avbryt uppladdning",
-    "No invoice template matches yor search": "Ingen fakturamall matchar din sökning"
+    "No invoice template matches yor search": "Ingen fakturamall matchar din sökning",
+    "Apple ID": "Apple ID",
+    "Connect": "Anslut",
+    "App-specific password": "App-specifikt lösenord",
+    "Apple id exceeds 250 characters.": "Apple ID överstiger 250 tecken.",
+    "Connect to Apple Calendar": "Anslut till Apple kalender",
+    "Password exceeds 250 characters.": "Lösenord överstiger 250 tecken."
 }

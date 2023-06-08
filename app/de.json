@@ -3336,5 +3336,11 @@
     "via Email": "per E-Mail",
     "Send Estimate {number} via Email": "Kostenvoranschlag {number} per E-Mail senden",
     "Send Invoice {number} via Email": "Rechnung {Rechnungsnummer} per E-Mail senden",
-    "Billable Status": "Rechnungsstatus"
+    "Billable Status": "Rechnungsstatus",
+    "App-specific password": "Anwendungsspezifisches Passwort",
+    "Apple ID": "Apple ID",
+    "Apple id exceeds 250 characters.": "Die Apple-ID überschreitet 250 Zeichen.",
+    "Connect": "Verbinden",
+    "Connect to Apple Calendar": "Verbinden zu Apple Kalender",
+    "Password exceeds 250 characters.": "Das Passwort ist länger als 250 Zeichen."
 }

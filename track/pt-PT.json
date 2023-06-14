@@ -187,5 +187,15 @@
     "Include application name": "Incluir nome da aplicação",
     "Include duration": "Incluir duração",
     "Include window title": "Incluir título da janela",
-    "Select snap interval": "Selecionar o intervalo"
+    "Select snap interval": "Selecionar o intervalo",
+    ">{seconds} sec": ">{seconds} seg",
+    "Filter": "Filtro",
+    "Sort": "Ordenar",
+    "{count} App Logs_one": "{count} Registo de Aplicações",
+    "{count} App Logs_other": "{count} Registos de Aplicações",
+    ">{minutes} min": ">{minutes} min",
+    "All": "Tudo",
+    "Group": "Grupo",
+    "Hours": "Horas",
+    "None": "Nenhum"
 }

@@ -187,5 +187,15 @@
     "Then": "Då",
     "window title": "fönstertitel",
     "Window title": "Fönstertitel",
-    "Timesheet snap interval": "Tidrapport intervall"
+    "Timesheet snap interval": "Tidrapport intervall",
+    "{count} App Logs_one": "{count} App logg",
+    "{count} App Logs_other": "{count} App loggar",
+    ">{minutes} min": ">{minutes} min",
+    ">{seconds} sec": ">{seconds} sek",
+    "All": "Alla",
+    "Filter": "Filter",
+    "Group": "Gruppera",
+    "Hours": "Timmar",
+    "None": "Inga",
+    "Sort": "Sortera"
 }

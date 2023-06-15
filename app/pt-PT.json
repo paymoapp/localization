@@ -3342,5 +3342,9 @@
     "Apple id exceeds 250 characters.": "A id Apple excede 250 caracteres.",
     "Connect": "Conectar",
     "Connect to Apple Calendar": "Conectar ao Calendário Apple",
-    "Password exceeds 250 characters.": "A palavra-passe excede 250 caracteres."
+    "Password exceeds 250 characters.": "A palavra-passe excede 250 caracteres.",
+    "New Report": "Novo Relatório",
+    "No option matches your search": "Nenhuma opção corresponde à sua pesquisa",
+    "Not accepting online payments": "Não aceita pagamentos online",
+    "Clone Report": "Clonar Relatório"
 }

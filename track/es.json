@@ -187,5 +187,15 @@
     "Include application name": "Incluir el nombre de la aplicación",
     "Include duration": "Incluir duración",
     "Include window title": "Incluir título de ventana",
-    "Timesheet snap interval": "Rango de hoja de tiempos"
+    "Timesheet snap interval": "Rango de hoja de tiempos",
+    "Filter": "Filtro",
+    "{count} App Logs_one": "{count} App Log",
+    "{count} App Logs_other": "{count} App Logs",
+    ">{minutes} min": ">{minutes} min",
+    ">{seconds} sec": ">{seconds} s",
+    "All": "Todo",
+    "Group": "Grupo",
+    "Hours": "Horas",
+    "None": "Ninguno",
+    "Sort": "Clasificar"
 }

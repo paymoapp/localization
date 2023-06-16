@@ -14,7 +14,7 @@
     "Add Task": "Añadir tarea",
     "Add Task List": "Añadir lista de tareas",
     "Add-ons & Integrations": "Complementos & Integraciones",
-    "All": "Todas",
+    "All": "Todo",
     "All Active": "Todos los activos",
     "All Users": "Todos los usuarios",
     "Annotate": "Anotaciones",
@@ -3342,5 +3342,9 @@
     "Apple id exceeds 250 characters.": "ID Apple supera los 250 caracteres.",
     "Connect": "Conectar",
     "Connect to Apple Calendar": "Conectar al Calendario de Apple",
-    "Password exceeds 250 characters.": "La contraseña supera los 250 caracteres."
+    "Password exceeds 250 characters.": "La contraseña supera los 250 caracteres.",
+    "Clone Report": "Clonar informe",
+    "New Report": "Nuevo informe",
+    "No option matches your search": "Ninguna opción coincide con su búsqueda",
+    "Not accepting online payments": "No acepta pagos online"
 }

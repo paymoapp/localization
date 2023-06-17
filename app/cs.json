@@ -1701,7 +1701,7 @@
     "report": "výkaz",
     "Report": "Sestava",
     "Report Added": "Sestava statistiky byla přidána",
-    "Report Deleted": "Sestava statistiky byla odstraněna",
+    "Report Deleted": "Sestava byla odstraněna",
     "Report Display Settings": "Nastavení zobrazení statistiky",
     "Report sharing updated": "Sdílení statistiky bylo aktualizováno",
     "Report Updated": "Sestava byla aktualizována",
@@ -3415,5 +3415,9 @@
     "Password exceeds 250 characters.": "Heslo přesahuje 250 znaky.",
     "App-specific password": "Heslo pro aplikaci",
     "Apple id exceeds 250 characters.": "Apple ID přesahuje 250 znaků.",
-    "Connect to Apple Calendar": "Propojit kalendář Apple"
+    "Connect to Apple Calendar": "Propojit kalendář Apple",
+    "Clone Report": "Klonovat sestavu",
+    "New Report": "Nová sestava",
+    "No option matches your search": "Žádná volba neodpovídá vašemu hledání",
+    "Not accepting online payments": "Neakceptuje online platby"
 }

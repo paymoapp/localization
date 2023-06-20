@@ -188,5 +188,15 @@
     "Include duration": "Zahrnout dobu trvání",
     "Include window title": "Zahrnout titulek okna",
     "Select snap interval": "Zahrnout interval snímání",
-    "Timesheet snap interval": "Interval časového výkazu"
+    "Timesheet snap interval": "Interval časového výkazu",
+    "Group": "Skupina",
+    "{count} App Logs_one": "{count} aplikační log",
+    "{count} App Logs_other": "{count} aplikační logy",
+    ">{minutes} min": ">{minutes} min",
+    ">{seconds} sec": ">{seconds} sek",
+    "All": "Vše",
+    "Filter": "Filtr",
+    "Hours": "Hodin",
+    "None": "Žádný",
+    "Sort": "Seřadit"
 }

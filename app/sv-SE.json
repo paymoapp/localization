@@ -3347,5 +3347,9 @@
     "App-specific password": "App-specifikt lösenord",
     "Apple id exceeds 250 characters.": "Apple ID överstiger 250 tecken.",
     "Connect to Apple Calendar": "Anslut till Apple kalender",
-    "Password exceeds 250 characters.": "Lösenord överstiger 250 tecken."
+    "Password exceeds 250 characters.": "Lösenord överstiger 250 tecken.",
+    "Clone Report": "Klona rapport",
+    "No option matches your search": "Inget alternativ matchade din sökning",
+    "New Report": "Ny rapport",
+    "Not accepting online payments": "Accepterar inte onlinebetalningar"
 }

@@ -108,5 +108,6 @@
     "Pause Automatic Tracking": "Automatikus időmérés szüneteltetése",
     "{count} other apps_other": "További {count} alkalmazás",
     "{count} Bulk Entry_one": "{count} ömlesztett bejegyzés",
-    "{count} Bulk Entry_other": "{count} ömlesztett bejegyzés"
+    "{count} Bulk Entry_other": "{count} ömlesztett bejegyzés",
+    "Something went wrong": "Valami hiba történt"
 }

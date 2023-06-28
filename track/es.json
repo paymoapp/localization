@@ -197,5 +197,9 @@
     "Group": "Grupo",
     "Hours": "Horas",
     "None": "Ninguno",
-    "Sort": "Clasificar"
+    "Sort": "Clasificar",
+    "Dark": "Oscuro",
+    "Light": "Claro",
+    "System default": "Sistema por defecto",
+    "Color theme": "Color del tema"
 }

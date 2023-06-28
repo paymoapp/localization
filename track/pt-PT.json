@@ -197,5 +197,9 @@
     "All": "Tudo",
     "Group": "Grupo",
     "Hours": "Horas",
-    "None": "Nenhum"
+    "None": "Nenhum",
+    "Dark": "Escuro",
+    "System default": "Sistema padrão",
+    "Color theme": "Cor do tema",
+    "Light": "Claro"
 }

@@ -185,5 +185,19 @@
     "Include application name": "Inclure le nom de l'application",
     "Include duration": "Inclure la durée",
     "Include window title": "Inclure le titre de la fenêtre",
-    "Select snap interval": "Sélectionner l'intervalle d'enclenchement"
+    "Select snap interval": "Sélectionner l'intervalle d'enclenchement",
+    "Color theme": "Thème de couleur",
+    "Dark": "Foncé",
+    "Group": "Groupe",
+    "Hours": "Heures",
+    "Filter": "Filtrer",
+    "Light": "Clair",
+    "None": "Aucun",
+    "Sort": "Trier",
+    ">{minutes} min": ">{minutes} min",
+    "All": "Tous",
+    ">{seconds} sec": ">{seconds} secondes",
+    "{count} App Logs_one": "{count} Log de l'application",
+    "{count} App Logs_other": "{count} Logs de l'application",
+    "System default": "Par défaut du système"
 }

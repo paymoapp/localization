@@ -47,5 +47,7 @@
     "Group": "Grup",
     "Drag entries here": "Kayıtları buraya sürükleyin",
     "from project": "projeden",
-    "Downloading Update": "Güncelleme İndiriliyor"
+    "Downloading Update": "Güncelleme İndiriliyor",
+    "Something went wrong": "Bir şeyler ters gitti",
+    "Stop": "Dur"
 }

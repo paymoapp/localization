@@ -198,5 +198,9 @@
     "Filter": "Filtr",
     "Hours": "Hodin",
     "None": "Žádný",
-    "Sort": "Seřadit"
+    "Sort": "Seřadit",
+    "Color theme": "Barevný motiv",
+    "Dark": "Tmavý",
+    "System default": "Výchozí ze systému",
+    "Light": "Světlý"
 }

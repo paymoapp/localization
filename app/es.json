@@ -304,7 +304,7 @@
     "Apply Tax": "Aplicar Impuestos",
     "Apply Tax to Expenses": "Aplicar impuesto a los gastos",
     "Applying project templates": "Aplicando plantillas de proyecto",
-    "Apps": "Apps",
+    "Apps": "Aplicaciones",
     "Apps Marketplace": "Apps Marketplace",
     "April": "Abril",
     "Archive": "Archivar",
@@ -2113,7 +2113,7 @@
     "Unlimited projects": "Proyectos ilimitados",
     "Unlimited users": "Usuarios ilimitados",
     "unpaid": "no pagada",
-    "Unpaid": "No remunerado",
+    "Unpaid": "No remunerable",
     "Unpaid Balance": "Balance de impagos",
     "Unpaid Leave Days": "Días de permisos impagados",
     "Unsaved Client": "Cliente no guardado",
@@ -2453,7 +2453,7 @@
     "No results found.": "No se han encontrado resultados.",
     "No unread notifications": "No hay notificaciones sin leer",
     "Set up dependencies between tasks and identify which are the most critical ones for your project with the <1>Gantt Chart</1> view.": "Configure las dependencias entre tareas e identifique cuáles son las más críticas para su proyecto con la vista <1>Diagrama de Gantt</1>.",
-    "Set up your own <1>Leave Types</1> to account for both paid and unpaid days that are in line with your HR policy.": "Configure sus propios <1>Tipos de permiso</1> para contabilizar los días remunerados y no remunerados acordes con su política de RR. HH.",
+    "Set up your own <1>Leave Types</1> to account for both paid and unpaid days that are in line with your HR policy.": "Configure sus propios <1>Tipos de permiso</1> para contabilizar los días remunerables y los que no, acordes con su política de RR. HH.",
     "Shortcut Name": "Nombre del atajo",
     "Shortcuts": "Atajos",
     "Show Delivery Date Field": "Mostrar campo de fecha de entrega",
@@ -3346,5 +3346,7 @@
     "Clone Report": "Clonar informe",
     "New Report": "Nuevo informe",
     "No option matches your search": "Ninguna opción coincide con su búsqueda",
-    "Not accepting online payments": "No acepta pagos online"
+    "Not accepting online payments": "No acepta pagos online",
+    "Retainer": "Anticipo",
+    "Select Billing Type": "Seleccionar tipo de facturación"
 }

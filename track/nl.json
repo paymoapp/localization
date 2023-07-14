@@ -184,5 +184,9 @@
     "{count} Bulk Entry_other": "{count} Bulk tijdregistraties",
     "{count} Bulk Entry_one": "{count} Bulk tijdregistratie",
     "All app activity": "Alle app activiteiten",
-    "Break": "Pauze"
+    "Break": "Pauze",
+    "None": "Geen",
+    "Hours": "Uren",
+    "Filter": "Filter",
+    "All": "Alle"
 }

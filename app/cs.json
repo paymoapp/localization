@@ -3419,5 +3419,7 @@
     "Clone Report": "Klonovat sestavu",
     "New Report": "Nová sestava",
     "No option matches your search": "Žádná volba neodpovídá vašemu hledání",
-    "Not accepting online payments": "Neakceptuje online platby"
+    "Not accepting online payments": "Neakceptuje online platby",
+    "Retainer": "Paušál",
+    "Select Billing Type": "Vyberte způsob fakturace"
 }

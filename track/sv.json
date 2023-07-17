@@ -197,5 +197,9 @@
     "Group": "Gruppera",
     "Hours": "Timmar",
     "None": "Inga",
-    "Sort": "Sortera"
+    "Sort": "Sortera",
+    "Color theme": "Färgtema",
+    "Dark": "Mörk",
+    "Light": "Ljus",
+    "System default": "Standardinställning"
 }

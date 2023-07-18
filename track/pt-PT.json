@@ -201,5 +201,8 @@
     "Dark": "Escuro",
     "System default": "Sistema padrão",
     "Color theme": "Cor do tema",
-    "Light": "Claro"
+    "Light": "Claro",
+    "matches anything": "corresponde com qualquer coisa",
+    "Rules help you automatically create time entries based on certain actions you define.": "As regras ajudam a automatizar a criação de registos de tempo com base em determinadas ações definidas por si.",
+    "any title": "qualquer título"
 }

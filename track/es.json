@@ -201,5 +201,8 @@
     "Dark": "Oscuro",
     "Light": "Claro",
     "System default": "Sistema por defecto",
-    "Color theme": "Color del tema"
+    "Color theme": "Color del tema",
+    "Rules help you automatically create time entries based on certain actions you define.": "Las reglas le ayudan a crear automáticamente entradas de tiempo basadas en ciertas acciones que usted defina.",
+    "any title": "cualquier título",
+    "matches anything": "coincide con cualquier cosa"
 }

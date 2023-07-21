@@ -201,5 +201,8 @@
     "Color theme": "Färgtema",
     "Dark": "Mörk",
     "Light": "Ljus",
-    "System default": "Standardinställning"
+    "System default": "Standardinställning",
+    "matches anything": "matchar något",
+    "any title": "någon titel",
+    "Rules help you automatically create time entries based on certain actions you define.": "Regler hjälper dig att automatiskt skapa tidsregistreringar baserade på aktiviteter som du definierar."
 }

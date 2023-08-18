@@ -199,5 +199,8 @@
     ">{seconds} sec": ">{seconds} secondes",
     "{count} App Logs_one": "{count} Log de l'application",
     "{count} App Logs_other": "{count} Logs de l'application",
-    "System default": "Par défaut du système"
+    "System default": "Par défaut du système",
+    "any title": "tous les titres",
+    "matches anything": "correspond à tout",
+    "Rules help you automatically create time entries based on certain actions you define.": "Les règles vous aident à créer automatiquement des entrées de temps sur la base de certaines actions que vous définissez."
 }

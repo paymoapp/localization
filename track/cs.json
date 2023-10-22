@@ -202,5 +202,7 @@
     "Color theme": "Barevný motiv",
     "Dark": "Tmavý",
     "System default": "Výchozí ze systému",
-    "Light": "Světlý"
+    "Light": "Světlý",
+    "Add apps to exclusion list": "Přidat aplikace do výjimek",
+    "any title": "jakýkoli popis"
 }

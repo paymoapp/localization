@@ -3348,5 +3348,19 @@
     "No option matches your search": "Ninguna opción coincide con su búsqueda",
     "Not accepting online payments": "No acepta pagos online",
     "Retainer": "Anticipo",
-    "Select Billing Type": "Seleccionar tipo de facturación"
+    "Select Billing Type": "Seleccionar tipo de facturación",
+    "Export": "Exportar",
+    " days": " días",
+    " hrs": " h",
+    "{count} Bulk Entry": "{count} Entrada por lote",
+    "{count} Bulk Entry_plural": "{count} Entradas por lotes",
+    "active filter": "filtro activo",
+    "active filters": "filtros activos",
+    "Add empty row": "Añadir fila vacía",
+    "Add filter": "Añadir filtro",
+    "Add from expenses for {name}": "Añadir desde gastos por {name}",
+    "Add from outstanding Time/Costs": "Añadir desde Tiempo/Gastos pendientes",
+    "Add from Timesheet for": "Añadir desde el parte de horas para",
+    "Add Guest": "Añadir Invitado",
+    "Add new Payment": "Añadir nuevo Pago"
 }

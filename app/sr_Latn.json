@@ -3058,7 +3058,7 @@
     "Are you sure you want to delete {number} selected entries? ": "",
     "Client field is required": "",
     "Client modified": "",
-    "Client Note exceeds 1024 characters.": "",
+    "Client Note exceeds 5000 characters.": "",
     "Client profile has not been saved yet.": "",
     "Delete contact": "",
     "Delete Guest": "",

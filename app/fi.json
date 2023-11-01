@@ -3074,7 +3074,7 @@
     "Are you sure you want to delete this invoice?": "",
     "Are you sure you want to set the status of this report to {status}?": "",
     "Attach Expense Receipts for this Invoice": "",
-    "Client Note exceeds 1024 characters.": "",
+    "Client Note exceeds 5000 characters.": "",
     "Comment modified": "",
     "Complete Milestone": "",
     "Complete Milestone_plural": "",

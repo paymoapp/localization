@@ -3130,7 +3130,7 @@
     "This field is required": "",
     "Your free trial has expired.": "",
     "Can't send paid invoice": "",
-    "Client Note exceeds 1024 characters.": "",
+    "Client Note exceeds 5000 characters.": "",
     "Mark as {status}": "",
     "One of the selected projects has an active timer.": "",
     "Please open the email and follow the instructions.": "",

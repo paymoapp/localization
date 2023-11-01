@@ -3146,7 +3146,7 @@
     "Assigned to": "",
     " All payments will be deleted.": "",
     "{tasklist} already has a milestone associated to it.": "",
-    "Client Note exceeds 1024 characters.": "",
+    "Client Note exceeds 5000 characters.": "",
     "Delete task": "",
     "Do you want to continue editing?": "",
     "nine": "",

@@ -2960,7 +2960,7 @@
     "User Modified": "",
     "{time} of logged time will be deleted.": "",
     "Add People": "",
-    "Client Note exceeds 1024 characters.": "",
+    "Client Note exceeds 5000 characters.": "",
     "Create Invoice": "",
     "Delete booking": "",
     "Delete task": "",

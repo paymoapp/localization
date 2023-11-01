@@ -3073,7 +3073,7 @@
     "Via stopwatch": "",
     "All tasks will keep their <1>invoiced</1> status.": "",
     "We sent an email to <2>{{email}}</2>.": "",
-    "Client Note exceeds 1024 characters.": "",
+    "Client Note exceeds 5000 characters.": "",
     "Completion Status": "",
     "Costs": "",
     "Create invoice": "",

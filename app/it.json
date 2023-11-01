@@ -3150,7 +3150,7 @@
     "File Upload Limit Reached": "",
     "The comment hasn't been posted yet.<1></1>Would you like to save?": "",
     "Assigned to Project": "",
-    "Client Note exceeds 1024 characters.": "",
+    "Client Note exceeds 5000 characters.": "",
     "{count} invoices": "",
     "{count} invoices_plural": "",
     "Confirm conversion": "",

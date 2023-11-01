@@ -3277,7 +3277,7 @@
     "Add a new Task": "",
     "Are you sure you want to set the status of this invoice to {status}?": "",
     "Billable amount": "",
-    "Client Note exceeds 1024 characters.": "",
+    "Client Note exceeds 5000 characters.": "",
     "Complete Milestone": "",
     "Complete Milestone_plural": "",
     "Convert to Estimate": "",

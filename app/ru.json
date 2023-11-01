@@ -3243,7 +3243,7 @@
     "Billable amount": "",
     "By changing the workflow, project task statuses will be reset. Do you want to proceed?": "",
     "Change Workflow": "",
-    "Client Note exceeds 1024 characters.": "",
+    "Client Note exceeds 5000 characters.": "",
     "Client name exceeds 250 characters.": "",
     "Clone Estimate": "",
     "Completion Status": "",

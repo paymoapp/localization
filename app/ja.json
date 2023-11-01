@@ -2760,7 +2760,7 @@
     "Change Billing Type": "",
     "Change estimate status": "",
     "Client name exceeds 250 characters.": "",
-    "Client Note exceeds 1024 characters.": "",
+    "Client Note exceeds 5000 characters.": "",
     "Clone Invoice": "",
     "Contact details have not been saved yet.": "",
     "Contact modified": "",

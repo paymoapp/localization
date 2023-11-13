@@ -3767,5 +3767,20 @@
     "We are grateful for your continuous support as a Paymo customer. Due to the current economic climate, we can no longer honor your old legacy pricing. You will have to switch to a <2> new monthly plan or discounted yearly plan </2> no later than November 30th.": "Estamos imensamente gratos pelo seu contínuo apoio como cliente Paymo. Devido ao clima económico atual, não podemos mais honrar o seu preço anterior. Deverá mudar para um <2>novo plano mensal ou plano anual com desconto</2> até 30 de novembro.",
     "We are grateful for your continuous support as a Paymo customer. Due to the current economic climate, we can no longer honor your old legacy pricing. You will have to switch to a <2>new monthly plan or discounted yearly plan</2> when your current subscription expires.": "Estamos imensamente gratos pelo seu contínuo apoio como cliente Paymo. Devido ao clima económico atual, não podemos mais honrar o seu preço anterior. Deverá mudar para um <2> novo plano mensal ou plano anual com desconto</2> quando a sua assinatura atual expirar.",
     "You&apos;ve reached your plan&apos;s <1>{limit}</1> storage limit. In order to upload new files, you first have to delete some of the existing ones.": "Atingiu o limite de armazenamento <1>{limit}</1> do seu plano. Para carregar novos ficheiros, primeiro deve eliminar alguns dos existentes.",
-    "You&apos;ve reached your plan&apos;s limit of <1>{limit}</1>. Please switch to a new plan, see more details about Paymo plans <4>here</4>.": "Atingiu o limite de <1>{limit}</1> do seu plano. Para mudar para um novo plano, veja mais detalhes acerca dos planos do Paymo <4>aqui</4>."
+    "You&apos;ve reached your plan&apos;s limit of <1>{limit}</1>. Please switch to a new plan, see more details about Paymo plans <4>here</4>.": "Atingiu o limite de <1>{limit}</1> do seu plano. Para mudar para um novo plano, veja mais detalhes acerca dos planos do Paymo <4>aqui</4>.",
+    "Collecting data, please wait": "A coletar dados, por favor, aguarde",
+    "Export Guests": "Exportar Convidados",
+    "Export Recurring Profiles": "Exportar Perfis Recorrentes",
+    "Export Attachments": "Exportar anexos",
+    "Export Clients": "Exportar Clientes",
+    "Export Estimates": "Exportar Estimativas",
+    "Export Expenses": "Exportar Despesas",
+    "Export Invoices": "Exportar Faturas",
+    "Export Projects": "Exportar Projetos",
+    "Export Receipts": "Exportar Recibos",
+    "Export Reports": "Exportar Relatórios",
+    "Export Users": "Exportar Utilizadores",
+    "receipt": "recibo",
+    "receipts": "recibos",
+    "Billable Amount": "Montante Faturável"
 }

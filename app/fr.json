@@ -3288,7 +3288,7 @@
     "App password for {{name}}": "Mot de passe de l'application pour {{name}}",
     "Are you sure you want to delete the <1>{{name}}</1> expense for <4>{{client}}</4>?": "Êtes-vous certain de vouloir supprimer les dépenses de <1>{{name}}</1> pour <4>{{client}}</4> ?",
     "Are you sure you want to delete the <1>{{name}}</1> tag?": "Êtes-vous certain de vouloir supprimer l'étiquette <1>{{name}}</1> ?",
-    "Are you sure you want to delete the <1>{{name}}</1> workflow status?": "Êtes-vous certain de vouloir supprimer l'état du flux de travail <1>{{nom}}</1> ?",
+    "Are you sure you want to delete the <1>{{name}}</1> workflow status?": "Êtes-vous certain de vouloir supprimer l'état du workflow <1>{{name}}</1> ?",
     "Are you sure you want to delete the <1>{{name}}</1> workflow?": "Êtes-vous sûr de vouloir supprimer le workflow <1>{{name}}</1> ?",
     "Are you sure you want to delete<1> {{projects}}</1> selected projects?": "Êtes-vous sûr de vouloir supprimer<1> {{projects}}</1> les projets sélectionnés ?",
     "Are you sure you want to revoke <1>{{app}}</1> access for <4>{{user}}</4>?": "",

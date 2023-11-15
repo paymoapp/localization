@@ -202,5 +202,18 @@
     "System default": "Par défaut du système",
     "any title": "tous les titres",
     "matches anything": "correspond à tout",
-    "Rules help you automatically create time entries based on certain actions you define.": "Les règles vous aident à créer automatiquement des entrées de temps sur la base de certaines actions que vous définissez."
+    "Rules help you automatically create time entries based on certain actions you define.": "Les règles vous aident à créer automatiquement des entrées de temps sur la base de certaines actions que vous définissez.",
+    "Add apps to exclusion list": "Ajouter des applications à la liste d'exclusion",
+    "Applications will only show up after you have tracked them.": "Les applications n'apparaîtront qu'une fois que vous les aurez traquées.",
+    "Automatically apply linking rules": "Appliquer automatiquement les règles de liaison",
+    "Choose a task you’re working on": "Choisissez une tâche sur laquelle vous travaillez",
+    "Definition file version not compatible with this version of Paymo Track": "Version du fichier non compatible avec cette version de Paymo Track",
+    "Display project name first": "Afficher le nom du projet en premier",
+    "Exclude applications from automatic tracking": "Exclure les applications du suivi automatique",
+    "Excluded applications": "Applications exclues",
+    "Export": "Export",
+    "Export/Import linking rules": "Règles de liaison pour l'exportation et l'importation",
+    "Failed to import linking rules": "Échec de l'importation des règles de liaison",
+    "Help": "Aide",
+    "Import": "Importer"
 }

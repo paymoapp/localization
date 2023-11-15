@@ -3287,7 +3287,7 @@
     "Starting a new timer will stop the current running timer for the <2>{{task}}</2> task.": "Le démarrage d'un nouveau compteur arrêtera le minuteur en cours pour la tâche <2>{{task}}</2>.",
     "App password for {{name}}": "Mot de passe de l'application pour {{name}}",
     "Are you sure you want to delete the <1>{{name}}</1> expense for <4>{{client}}</4>?": "Êtes-vous certain de vouloir supprimer les dépenses de <1>{{name}}</1> pour <4>{{client}}</4> ?",
-    "Are you sure you want to delete the <1>{{name}}</1> tag?": "Êtes-vous sûr de vouloir supprimer l'étiquette <1>{{name}}</1> ?",
+    "Are you sure you want to delete the <1>{{name}}</1> tag?": "Êtes-vous certain de vouloir supprimer la balise <1>{{nom}}</1> ?",
     "Are you sure you want to delete the <1>{{name}}</1> workflow status?": "Êtes-vous sûr de vouloir supprimer le statut du workflow <1>{{name}}</1> ?",
     "Are you sure you want to delete the <1>{{name}}</1> workflow?": "Êtes-vous sûr de vouloir supprimer le workflow <1>{{name}}</1> ?",
     "Are you sure you want to delete<1> {{projects}}</1> selected projects?": "Êtes-vous sûr de vouloir supprimer<1> {{projects}}</1> les projets sélectionnés ?",

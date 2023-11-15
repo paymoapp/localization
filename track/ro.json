@@ -94,7 +94,7 @@
     "Update failed": "Actualizarea a eșuat",
     "Update now": "Actualizează acum",
     "What's changed": "Schimbări",
-    "You can no longer use this version of the application.\nPlease update now!": "Nu mai poți folosi versiunea curentă a aplicației.\nTe rugăm să o actualizezi.",
+    "You can no longer use this version of the application.\nPlease update now!": "Nu mai poți folosi versiunea curentă a aplicației.\nTe rugăm să o actualizezi acum!",
     "You've been idle since {time}": "Ai fost inactiv de la {time}",
     "Your debug token:": "Indicator de depanare:",
     "{hr} hours and {min} minutes": "{hr} ore și {min} minute",

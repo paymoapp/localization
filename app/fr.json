@@ -3192,7 +3192,7 @@
     "Mark Milestone Complete": "",
     "Mark Milestone Complete_plural": "",
     "Are you sure you want to revoke {{app}} access for {{user}}?": "",
-    "Are you sure you want to delete the <1>{{name}}</1> project template?": "Êtes-vous certain de vouloir supprimer le modèle de projet <1>{{nom}}</1> ?",
+    "Are you sure you want to delete the <1>{{name}}</1> project template?": "Êtes-vous certain de vouloir supprimer le modèle de projet <1>{{name}}</1> ?",
     "Are you sure you want to<1> activate {{clients}}</1> clients?": "",
     "You can&apos;t delete this workflow, it is used by one or several projects.": "",
     "Mark estimates": "",

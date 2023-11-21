@@ -120,7 +120,7 @@
     "Apply Rules": "Anvend regler",
     "Are you sure you want to delete these activities?\nThis action is irreversible.": "Er du sikker på, at du vil slette disse aktiviteter?\nDette kan ikke fortrydes.",
     "choose": "Vælg",
-    "Clear selection": "Ryd markering",
+    "Clear selection": "Ryd valg",
     "Delete activities": "Slet aktiviteter",
     "Delete selected activities": "Slet valgte aktiviteter",
     "Downloading Update": "Downloader opdateringer",
@@ -185,5 +185,10 @@
     "Pomodoro": "Pomodoro",
     "{hr} hours and {min} minutes": "{hr} timer og {min} minutter",
     "{min} minutes": "{min} minutter",
-    "All app activity": "Al appaktivitet"
+    "All app activity": "Al appaktivitet",
+    "Filter": "Filtrere",
+    "All": "Alle",
+    "Export": "Eksporter",
+    "Sort": "Sortere",
+    "Submit": "Indsend"
 }

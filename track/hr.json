@@ -147,5 +147,6 @@
     "{count} Bulk Entry_other": "{count} višestrukih unosa",
     "{count} Bulk Entry_one": "{count} višestruki unos",
     "Break": "Pauza",
-    "All app activity": "Sve aktivnosti u aplikaciji"
+    "All app activity": "Sve aktivnosti u aplikaciji",
+    "Clear selection": "Poništi odabrano"
 }

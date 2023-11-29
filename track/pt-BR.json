@@ -73,7 +73,7 @@
     "choose": "Escolha",
     "Choose another task you worked on...": "Escolha outra tarefa na qual você trabalhou...",
     "Clear application entries on logout": "Limpar as entradas do aplicativo ao sair",
-    "Clear selection": "Seleção clara",
+    "Clear selection": "Limpar Seleção",
     "Delete activities": "Excluir atividades",
     "Delete selected activities": "Excluir atividades selecionadas",
     "Enable spell checking": "Ativar verificação ortográfica",
@@ -100,5 +100,12 @@
     "About": "Sobre",
     "{count} Bulk Entry_one": "{contar} Entrada em massa",
     "{count} Bulk Entry_other": "{contar} Entradas em massa",
-    "All app activity": "Todas as atividades do aplicativo"
+    "All app activity": "Todas as atividades do aplicativo",
+    "{count} Bulk Entry": "Entrada em Massa",
+    "{count} Bulk Entry_plural": "Entradas em Massa",
+    "Apps": "Apps",
+    "Filter": "Filtro",
+    "All": "Tudo",
+    "or": "ou",
+    "Time Entries": "Registro de Tempo"
 }

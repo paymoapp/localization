@@ -232,5 +232,15 @@
     "Excluded applications": "Aplicaciones excluidas",
     "Keyboard Shortcuts": "Atajos de teclado",
     "No items found": "Items no encontrados",
-    "Task not found": "Tarea no encontrada"
+    "Task not found": "Tarea no encontrada",
+    "{count} App Logs": "{count} registro de aplicaciones",
+    "{count} App Logs_plural": "{count} registros de aplicaciones",
+    "{count} minute ago": "Hace {count} un minuto",
+    "{count} minute ago_plural": "Hace {count} minutos",
+    "{count} other apps": "{count} otra aplicación",
+    "{count} other apps_plural": "{count} otras aplicaciones",
+    "{count} Bulk Entry": "{count} entrada por lote",
+    "{count} Bulk Entry_plural": "{count} entradas por lotes",
+    "+ {count} other app (expand to see all)": "+ {count} otra aplicación (expandir para ver todas)",
+    "+ {count} other app (expand to see all)_plural": "+ {count} otras aplicaciones (expandir para ver todas)"
 }

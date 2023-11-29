@@ -232,5 +232,15 @@
     "Export/Import linking rules": "Regras de vinculação de exportação/importação",
     "Invalid linking rule definition file": "Ficheiro de definição de regra de vinculação inválido",
     "No items found": "Nenhum item encontrado",
-    "search for tasks, projects or clients": "pesquisar por tarefas, projetos ou clientes"
+    "search for tasks, projects or clients": "pesquisar por tarefas, projetos ou clientes",
+    "{count} App Logs": "{count} Registo de Aplicações",
+    "{count} App Logs_plural": "{count} Registos de Aplicações",
+    "{count} Bulk Entry": "{count} Entrada em Lote",
+    "{count} Bulk Entry_plural": "{count} Entradas em Lote",
+    "{count} minute ago": "{count} minuto atrás",
+    "{count} minute ago_plural": "{count} minutos atrás",
+    "{count} other apps": "{count} outra aplicação",
+    "{count} other apps_plural": "{count} outras aplicações",
+    "+ {count} other app (expand to see all)": "+ {count} outra aplicação (expandir para ver todas)",
+    "+ {count} other app (expand to see all)_plural": "+ {count} outras aplicações (expandir para ver todas)"
 }

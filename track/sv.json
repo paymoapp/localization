@@ -232,5 +232,15 @@
     "Applications will only show up after you have tracked them.": "Applikationer syns först när du har spårat dom.",
     "Definition file version not compatible with this version of Paymo Track": "Fildefinitionen är inte kompatibel med denna version av Paymo TRack",
     "Invalid linking rule definition file": "Felaktig fil för definition av länkregel",
-    "Manage Exclusions": "Hantera uteslutningar"
+    "Manage Exclusions": "Hantera uteslutningar",
+    "{count} App Logs": "{count} App-logg",
+    "{count} App Logs_plural": "{count} App-loggar",
+    "{count} Bulk Entry": "{count} Bulkinmatning",
+    "{count} Bulk Entry_plural": "{count} Bulkinmatningar",
+    "{count} minute ago": "{count} minut sedan",
+    "{count} minute ago_plural": "{count} minuter sedan",
+    "{count} other apps": "{count} annan app",
+    "{count} other apps_plural": "{count} andra appar",
+    "+ {count} other app (expand to see all)": "+ {count} annan app (expandera för att se allt)",
+    "+ {count} other app (expand to see all)_plural": "+ {count} andra appar (expandera för att se allt)"
 }

@@ -149,5 +149,13 @@
     "Break": "Pauza",
     "All app activity": "Sve aktivnosti u aplikaciji",
     "Clear selection": "Poništi odabrano",
-    "Export": "Izvoz"
+    "Export": "Izvoz",
+    "{count} Bulk Entry_0": "{count} grupni unos",
+    "{count} Bulk Entry_1": "{count} grupna unosa",
+    "{count} Bulk Entry_2": "{count} grupnih unosa",
+    "All": "Svi",
+    "Filter": "Filter",
+    "Submit": "Potvrdi",
+    "Sort": "Posloži",
+    "or": "ili"
 }

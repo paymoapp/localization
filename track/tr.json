@@ -49,5 +49,12 @@
     "from project": "projeden",
     "Downloading Update": "Güncelleme İndiriliyor",
     "Something went wrong": "Bir şeyler ters gitti",
-    "Stop": "Dur"
+    "Stop": "Dur",
+    "All": "Tümü",
+    "Back": "Geri",
+    "Time Entries": "Süre Kayıtları",
+    "{count} Bulk Entry": "{count} Toplu Girdi",
+    "{count} Bulk Entry_plural": "{count} Toplu Girdi",
+    "or": "veya",
+    "Submit": "Gönder"
 }

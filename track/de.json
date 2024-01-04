@@ -185,5 +185,7 @@
     "{count} Bulk Entry_other": "{count} Masseneinträge",
     "All app activity": "Alle Anwendungsaktivitäten",
     "Break": "Pause",
-    "Enable sounds": "Töne einschalten"
+    "Enable sounds": "Töne einschalten",
+    "{count} Bulk Entry": "{Count} Masseneintrag",
+    "{count} Bulk Entry_plural": "{Count} Masseneinträge"
 }

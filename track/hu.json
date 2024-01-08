@@ -111,5 +111,7 @@
     "{count} Bulk Entry_other": "{count} ömlesztett bejegyzés",
     "Something went wrong": "Valami hiba történt",
     "Clear selection": "Kijelölés eltávolítása",
-    "Export": "Exportálás"
+    "Export": "Exportálás",
+    "Time Entries": "Időbejegyzések",
+    "Sort": "Rendezés"
 }

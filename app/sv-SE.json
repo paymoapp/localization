@@ -3806,5 +3806,11 @@
     "Is billable": "Är fakturerbart",
     "sales price": "försäljningspris",
     "Switch to Bulk Add": "Byt till lägga till i bulk",
-    "Switch to Simple Add": "Byt till att lägga till en/ett i taget"
+    "Switch to Simple Add": "Byt till att lägga till en/ett i taget",
+    "Ease of use / Missing features": "Användarvänlighet / Saknade funktioner",
+    "Please select at least one option": "Vänligen välj minst ett alternativ",
+    "Proceed to Cancellation": "Fortsätt till avbeställning",
+    "Support issues": "Supportfrågor",
+    "Closed business": "Avslutad affär",
+    "Product / technical issue": "Produkt / Tekniskt problem"
 }

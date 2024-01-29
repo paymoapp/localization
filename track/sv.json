@@ -242,5 +242,8 @@
     "{count} other apps": "{count} annan app",
     "{count} other apps_plural": "{count} andra appar",
     "+ {count} other app (expand to see all)": "+ {count} annan app (expandera för att se allt)",
-    "+ {count} other app (expand to see all)_plural": "+ {count} andra appar (expandera för att se allt)"
+    "+ {count} other app (expand to see all)_plural": "+ {count} andra appar (expandera för att se allt)",
+    "Open Quick Actions": "Öppna snabbval",
+    "Quick Actions": "Snabbval",
+    "Start timer": "Starta tidtagare"
 }

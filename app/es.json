@@ -2792,7 +2792,7 @@
     "Moving card here not allowed": "No se permite mover la tarjeta aquí",
     "No estimate status matches your search": "Ningún estado de presupuesto coincide con su búsqueda",
     "not confirmed": "sin confirmar",
-    "Start timer": "Iniciar el temporizador",
+    "Start timer": "Iniciar temporizador",
     "Edit expense": "Editar gasto",
     "Edit Payment": "Editar pago",
     "from {count} invoices": "de {count} factura",
@@ -3801,5 +3801,11 @@
     "true": "verdadero",
     "Font & colors": "Fuente y colores",
     "FOOTER": "PIE DE PÁGINA",
-    "right": "derecha"
+    "right": "derecha",
+    "Closed business": "Negocio cerrado",
+    "Ease of use / Missing features": "Facilidad de uso / Características faltantes",
+    "Please select at least one option": "Por favor seleccione al menos una opción",
+    "Proceed to Cancellation": "Proceder a la cancelación",
+    "Product / technical issue": "Producto / problema técnico",
+    "Support issues": "Preguntas de soporte"
 }

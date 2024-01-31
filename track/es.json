@@ -242,5 +242,8 @@
     "{count} Bulk Entry": "{count} entrada por lote",
     "{count} Bulk Entry_plural": "{count} entradas por lotes",
     "+ {count} other app (expand to see all)": "+ {count} otra aplicación (expandir para ver todas)",
-    "+ {count} other app (expand to see all)_plural": "+ {count} otras aplicaciones (expandir para ver todas)"
+    "+ {count} other app (expand to see all)_plural": "+ {count} otras aplicaciones (expandir para ver todas)",
+    "Open Quick Actions": "Abrir acciones rápidas",
+    "Quick Actions": "Acciones Rápidas",
+    "Start timer": "Iniciar temporizador"
 }

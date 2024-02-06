@@ -242,5 +242,8 @@
     "{count} other apps": "{count} outra aplicação",
     "{count} other apps_plural": "{count} outras aplicações",
     "+ {count} other app (expand to see all)": "+ {count} outra aplicação (expandir para ver todas)",
-    "+ {count} other app (expand to see all)_plural": "+ {count} outras aplicações (expandir para ver todas)"
+    "+ {count} other app (expand to see all)_plural": "+ {count} outras aplicações (expandir para ver todas)",
+    "Open Quick Actions": "Abrir Ações Rápidas",
+    "Quick Actions": "Ações Rápidas",
+    "Start timer": "Iniciar temporizador"
 }

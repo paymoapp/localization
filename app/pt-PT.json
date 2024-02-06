@@ -3801,5 +3801,11 @@
     "subtotal": "subtotal",
     "Switch to Bulk Add": "Mudar para Adição em Lote",
     "Switch to Simple Add": "Mudar para Adição Simples",
-    "This will appear on each page of invoices and estimates": "Isso aparecerá em cada página de faturas e orçamentos"
+    "This will appear on each page of invoices and estimates": "Isso aparecerá em cada página de faturas e orçamentos",
+    "Closed business": "Negócio fechado",
+    "Ease of use / Missing features": "Facilidade de uso / Recursos em falta",
+    "Please select at least one option": "Por favor, selecione pelo menos uma opção",
+    "Proceed to Cancellation": "Prosseguir para o Cancelamento",
+    "Product / technical issue": "Produto / problema técnico",
+    "Support issues": "Problemas de suporte"
 }

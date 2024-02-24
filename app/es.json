@@ -1188,12 +1188,12 @@
     "Later this Week": "Más tarde esta semana",
     "Latest Events": "Últimos eventos",
     "Learn More": "Saber más",
-    "Leave": "Permiso",
+    "Leave": "Salir",
     "Leave day added": "Día de permiso añadido",
     "Leave day deleted": "Día de permiso borrado",
     "Leave day updated": "Día de permiso actualizado",
     "Leave Days": "Días de permiso",
-    "Leave for": "Permiso por",
+    "Leave for": "Permiso para",
     "Leave Note": "Nota de permiso",
     "Leave Planner": "Calendario de permisos",
     "Leave Range": "Rango de permisos",
@@ -3827,5 +3827,7 @@
     "search font": "fuente de búsqueda",
     "Signature": "Firma",
     "Signature size": "Tamaño de la firma",
-    "Visual editor": "Editor visual"
+    "Visual editor": "Editor visual",
+    "Tax 1": "Impuesto 1",
+    "Tax 2": "Impuesto 2"
 }

@@ -3832,5 +3832,7 @@
     "Signature": "Signatur",
     "Print Invoice": "Skriv ut faktura",
     "search language": "sök språk",
-    "Template cloned successfully.": "Mallen klonades."
+    "Template cloned successfully.": "Mallen klonades.",
+    "Tax 1": "Moms 1",
+    "Tax 2": "Moms 2"
 }

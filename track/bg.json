@@ -1,3 +1,5 @@
 {
-    "Add Task": "Добави задача"
+    "Add Task": "Добави задача",
+    "{count} Bulk Entry": "{count} Групово въвеждане",
+    "{count} Bulk Entry_plural": "{count} Групови въвеждания"
 }

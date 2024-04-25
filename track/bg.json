@@ -1,5 +1,22 @@
 {
     "Add Task": "Добави задача",
     "{count} Bulk Entry": "{count} Групово въвеждане",
-    "{count} Bulk Entry_plural": "{count} Групови въвеждания"
+    "{count} Bulk Entry_plural": "{count} Групови въвеждания",
+    "{count} minute ago": "преди {count} минута",
+    "{count} minute ago_plural": "преди {count} минути",
+    "{hr} hours and {min} minutes": "{hr} часа и {min} минути",
+    "{min} minutes": "{min} минути",
+    "{number} selected": "{number} избрани",
+    "About": "Относно",
+    "Add Rule": "Добави Правило",
+    "Add Time": "Добави Време",
+    "All": "Всички",
+    "All Tasks": "Всички Задачи",
+    "{count} other apps": "{count} друго приложение",
+    "{count} other apps_plural": "{count} други приложения",
+    ">{minutes} min": ">{minutes} мин.",
+    ">{seconds} sec": ">{seconds} сек.",
+    "Add a New Task": "Добави Нова Задача",
+    "Add Entry": "Добави Запис",
+    "An update is available": "Налична е актуализация"
 }

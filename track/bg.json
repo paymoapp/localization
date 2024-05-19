@@ -1,7 +1,7 @@
 {
     "Add Task": "Добави задача",
-    "{count} Bulk Entry": "{count} Групово въвеждане",
-    "{count} Bulk Entry_plural": "{count} Групови въвеждания",
+    "{count} Bulk Entry": "{count} Групов Запис",
+    "{count} Bulk Entry_plural": "{count} Групови Записи",
     "{count} minute ago": "преди {count} минута",
     "{count} minute ago_plural": "преди {count} минути",
     "{hr} hours and {min} minutes": "{hr} часа и {min} минути",
@@ -18,5 +18,8 @@
     ">{seconds} sec": ">{seconds} сек.",
     "Add a New Task": "Добави Нова Задача",
     "Add Entry": "Добави Запис",
-    "An update is available": "Налична е актуализация"
+    "An update is available": "Налична е актуализация",
+    "Edit Entry": "Редактирай Запис",
+    "Entry Note": "Бележка Запис",
+    "Save Entry": "Запази Запис"
 }

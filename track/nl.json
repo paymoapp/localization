@@ -188,5 +188,7 @@
     "None": "Geen",
     "Hours": "Uren",
     "Filter": "Filter",
-    "All": "Alle"
+    "All": "Alle",
+    "{count} Bulk Entry": "{count} bulk registratie",
+    "{count} Bulk Entry_plural": "{count} bulk registraties"
 }
